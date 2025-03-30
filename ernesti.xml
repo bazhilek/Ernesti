@@ -72049,7 +72049,7 @@
             </entry>
             <entry>
                 <form type="lemma">
-                    <orth>Sprochniáły; Zbotfiáły</orth>
+                    <orth>Sprochniáły</orth>
                 </form>
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
@@ -72058,6 +72058,11 @@
                         </form>
                     </cit>
                 </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>Zbotfiáły</orth>
+                </form>
             </entry>
             <entry>
                 <form type="lemma">
