@@ -2505,20 +2505,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>die Süsse/ als</orth>
-                        </form>
-                    </cit>
-                </sense>
-            </entry>
-            <entry>
-                <form type="lemma">
-                    <orth>Meth</orth>
-                </form>
-                <pc>/</pc>
-                <sense>
-                    <cit type="translationEquivalent" xml:lang="ger">
-                        <form>
-                            <orth>Götter Tranck</orth>
+                            <orth>die Süsse/ als Meth/ Götter Tranck</orth>
                         </form>
                     </cit>
                 </sense>
@@ -2924,7 +2911,20 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>die Abfahrt/ das abfahren w Iazd/ die Einfarth</orth>
+                            <orth>die Abfahrt/ das abfahren</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>w Iazd</orth>
+                </form>
+                <pc>/</pc>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>die Einfarth</orth>
                         </form>
                     </cit>
                 </sense>
@@ -3891,20 +3891,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>Esel/ Spinnen/</orth>
-                        </form>
-                    </cit>
-                </sense>
-            </entry>
-            <entry>
-                <form type="lemma">
-                    <orth>Schäfflein</orth>
-                </form>
-                <pc>/</pc>
-                <sense>
-                    <cit type="translationEquivalent" xml:lang="ger">
-                        <form>
-                            <orth>unsers H. GottsLämlein</orth>
+                            <orth>Esel/ Spinnen/ Schäfflein/ unsers H. GottsLämlein</orth>
                         </form>
                     </cit>
                 </sense>
@@ -5796,20 +5783,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>der Schaden/</orth>
-                        </form>
-                    </cit>
-                </sense>
-            </entry>
-            <entry>
-                <form type="lemma">
-                    <orth>Unglück</orth>
-                </form>
-                <pc>/</pc>
-                <sense>
-                    <cit type="translationEquivalent" xml:lang="ger">
-                        <form>
-                            <orth>Anstoß</orth>
+                            <orth>der Schaden/ Unglück/ Anstoß</orth>
                         </form>
                     </cit>
                 </sense>
@@ -7648,7 +7622,20 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>der Beutel ná pierśi pleszek/ Brust Harnisch</orth>
+                            <orth>der Beutel</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>ná pierśi pleszek</orth>
+                </form>
+                <pc>/</pc>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>Brust Harnisch</orth>
                         </form>
                     </cit>
                 </sense>
@@ -8287,7 +8274,20 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>der Thon zgodny dźwięk/ die zusammenstimmung</orth>
+                            <orth>der Thon</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>zgodny dźwięk</orth>
+                </form>
+                <pc>/</pc>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>die zusammenstimmung</orth>
                         </form>
                     </cit>
                 </sense>
@@ -9397,7 +9397,20 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>der Forstmeister łagiewnik/ der Flaschenmacher</orth>
+                            <orth>der Forstmeister</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>łagiewnik</orth>
+                </form>
+                <pc>/</pc>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>der Flaschenmacher</orth>
                         </form>
                     </cit>
                 </sense>
@@ -11304,20 +11317,33 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>der Hobel u Drabiny szcżebel/ die Sprossen an der Leiter</orth>
+                            <orth>der Hobel</orth>
                         </form>
                     </cit>
                 </sense>
             </entry>
             <entry>
                 <form type="lemma">
-                    <orth>Pryszcżei ná ćiele</orth>
+                    <orth>u Drabiny szcżebel</orth>
                 </form>
                 <pc>/</pc>
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>ná chlebie/ eine Blase am Leib Brodt</orth>
+                            <orth>die Sprossen an der Leiter</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>Pryszcżei ná ćiele/ ná chlebie</orth>
+                </form>
+                <pc>/</pc>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>eine Blase am Leib Brodt</orth>
                         </form>
                     </cit>
                 </sense>
@@ -12003,13 +12029,13 @@
             </entry>
             <entry>
                 <form type="lemma">
-                    <orth>Odwłocżyćiel</orth>
+                    <orth>Odwłocżyćiel/ zwłocżyćiel</orth>
                 </form>
                 <pc>/</pc>
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>zwłocżyćiel/ ein Auffzieher/ der etwas auffscheubt</orth>
+                            <orth>ein Auffzieher/ der etwas auffscheubt</orth>
                         </form>
                     </cit>
                 </sense>
@@ -17174,7 +17200,20 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>das Elend łosoś/ der Lachs</orth>
+                            <orth>das Elend</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>łosoś</orth>
+                </form>
+                <pc>/</pc>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>der Lachs</orth>
                         </form>
                     </cit>
                 </sense>
@@ -20958,7 +20997,19 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>die Außfuhr łodź/ der Kahn</orth>
+                            <orth>die Außfuhr</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>łodź</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>der Kahn</orth>
                         </form>
                     </cit>
                 </sense>
@@ -21042,7 +21093,19 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>eine Beul w gárdle guz/ der Knopff an der Kehle</orth>
+                            <orth>eine Beul</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>w gárdle guz</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>der Knopff an der Kehle</orth>
                         </form>
                     </cit>
                 </sense>
@@ -21105,7 +21168,19 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>die Bauren-hütte cżyż/ ein Distelfincke</orth>
+                            <orth>die Bauren-hütte</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>cżyż</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>ein Distelfincke</orth>
                         </form>
                     </cit>
                 </sense>
@@ -23876,7 +23951,19 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>die Kutte łápicá/ die Maußfall</orth>
+                            <orth>die Kutte</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>łápicá</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>die Maußfall</orth>
                         </form>
                     </cit>
                 </sense>
@@ -24154,7 +24241,19 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>der Pfriem Zwaycá/ der Zäncker</orth>
+                            <orth>der Pfriem</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>Zwaycá</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>der Zäncker</orth>
                         </form>
                     </cit>
                 </sense>
@@ -24583,12 +24682,12 @@
             </entry>
             <entry>
                 <form type="lemma">
-                    <orth>Stołowa</orth>
+                    <orth>Stołowa/ prawdá</orth>
                 </form>
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>prawdá/ Tischring</orth>
+                            <orth>Tischring</orth>
                         </form>
                     </cit>
                 </sense>
@@ -25840,19 +25939,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>die Unlust/</orth>
-                        </form>
-                    </cit>
-                </sense>
-            </entry>
-            <entry>
-                <form type="lemma">
-                    <orth>Verdruß</orth>
-                </form>
-                <sense>
-                    <cit type="translationEquivalent" xml:lang="ger">
-                        <form>
-                            <orth>Eckel</orth>
+                            <orth>die Unlust/ Verdruß/ Eckel</orth>
                         </form>
                     </cit>
                 </sense>
@@ -26575,7 +26662,19 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>der Stock łáská/ die Gunst</orth>
+                            <orth>der Stock</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>łáská</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>die Gunst</orth>
                         </form>
                     </cit>
                 </sense>
@@ -27443,8 +27542,19 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>ein klein Gestühl/ das Gezeh ienká/ das Badstühlein
-                                Laźienká</orth>
+                            <orth>ein klein Gestühl/ das Gezeh</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>Laźienká</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>das Badstühlein</orth>
                         </form>
                     </cit>
                 </sense>
@@ -27769,7 +27879,19 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>der Danck łáżęká/ der Schlüffel</orth>
+                            <orth>der Danck</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>łáżęká</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>der Schlüffel</orth>
                         </form>
                     </cit>
                 </sense>
@@ -30127,19 +30249,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>der Bruch/</orth>
-                        </form>
-                    </cit>
-                </sense>
-            </entry>
-            <entry>
-                <form type="lemma">
-                    <orth>Rieß</orth>
-                </form>
-                <sense>
-                    <cit type="translationEquivalent" xml:lang="ger">
-                        <form>
-                            <orth>Spalt</orth>
+                            <orth>der Bruch/ Rieß/ Spalt</orth>
                         </form>
                     </cit>
                 </sense>
@@ -30535,19 +30645,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>der Fürhang/ der</orth>
-                        </form>
-                    </cit>
-                </sense>
-            </entry>
-            <entry>
-                <form type="lemma">
-                    <orth>Schatten</orth>
-                </form>
-                <sense>
-                    <cit type="translationEquivalent" xml:lang="ger">
-                        <form>
-                            <orth>Licht-Schirm</orth>
+                            <orth>der Fürhang/ der Schatten/ Licht-Schirm</orth>
                         </form>
                     </cit>
                 </sense>
@@ -32485,19 +32583,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>die Schwadern/ der</orth>
-                        </form>
-                    </cit>
-                </sense>
-            </entry>
-            <entry>
-                <form type="lemma">
-                    <orth>Tropp</orth>
-                </form>
-                <sense>
-                    <cit type="translationEquivalent" xml:lang="ger">
-                        <form>
-                            <orth>die Rotte</orth>
+                            <orth>die Schwadern/ der Tropp/ die Rotte</orth>
                         </form>
                     </cit>
                 </sense>
@@ -32509,19 +32595,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>der geschriebene</orth>
-                        </form>
-                    </cit>
-                </sense>
-            </entry>
-            <entry>
-                <form type="lemma">
-                    <orth>Unterricht</orth>
-                </form>
-                <sense>
-                    <cit type="translationEquivalent" xml:lang="ger">
-                        <form>
-                            <orth>was man</orth>
+                            <orth>der geschriebene Unterricht was man thun</orth>
                         </form>
                     </cit>
                 </sense>
@@ -33047,12 +33121,12 @@
             </entry>
             <entry>
                 <form type="lemma">
-                    <orth>Przemowá</orth>
+                    <orth>Przemowá/ Przedmowá</orth>
                 </form>
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>Przedmowá/ die Vorrede</orth>
+                            <orth>die Vorrede</orth>
                         </form>
                     </cit>
                 </sense>
@@ -33064,19 +33138,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>deß Sohns</orth>
-                        </form>
-                    </cit>
-                </sense>
-            </entry>
-            <entry>
-                <form type="lemma">
-                    <orth>Weib</orth>
-                </form>
-                <sense>
-                    <cit type="translationEquivalent" xml:lang="ger">
-                        <form>
-                            <orth>Schnürche</orth>
+                            <orth>deß Sohns Weib/ Schnürche</orth>
                         </form>
                     </cit>
                 </sense>
@@ -33857,7 +33919,19 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>die Saurigkeit łáćność/ die Leichtigkeit</orth>
+                            <orth>die Saurigkeit</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>łáćność</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>die Leichtigkeit</orth>
                         </form>
                     </cit>
                 </sense>
@@ -36720,7 +36794,19 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>das außspülen z Płokánie/ das abspülen</orth>
+                            <orth>das außspülen</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>z Płokánie</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>das abspülen</orth>
                         </form>
                     </cit>
                 </sense>
@@ -36985,8 +37071,19 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>die Vermehrung Rozcżyniánie cżego wodą/ etwas mit Wasser
-                                anmachen</orth>
+                            <orth>die Vermehrung</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>Rozcżyniánie cżego wodą</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>etwas mit Wasser anmachen</orth>
                         </form>
                     </cit>
                 </sense>
@@ -37432,7 +37529,19 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>das fliegen łátánie/ das flicken</orth>
+                            <orth>das fliegen</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>łátánie</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>das flicken</orth>
                         </form>
                     </cit>
                 </sense>
@@ -38263,7 +38372,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>das vorhersehen/ Vorbedeu- tung</orth>
+                            <orth>das vorhersehen/ Vorbedeutung</orth>
                         </form>
                     </cit>
                 </sense>
@@ -38589,7 +38698,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>die Vergleichung/ Gegenhal- tung</orth>
+                            <orth>die Vergleichung/ Gegenhaltung</orth>
                         </form>
                     </cit>
                 </sense>
@@ -38865,7 +38974,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>das besitzen der Gütter/ auff- gerichtliches Zuerkäntnüß</orth>
+                            <orth>das besitzen der Gütter/ auffgerichtliches Zuerkäntnüß</orth>
                         </form>
                     </cit>
                 </sense>
@@ -39011,8 +39120,19 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>das verschütten Zászorowánie piáskiem w wodźje/ die Auffwerffung
-                                deß Sandes</orth>
+                            <orth>das verschütten</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>Zászorowánie piáskiem w wodźje</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>die Auffwerffung deß Sandes</orth>
                         </form>
                     </cit>
                 </sense>
@@ -41056,7 +41176,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>die Verstummung/ das ver- stummen</orth>
+                            <orth>die Verstummung/ das verstummen</orth>
                         </form>
                     </cit>
                 </sense>
@@ -41587,7 +41707,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>das beben/ schüttern ge[n])</orth>
+                            <orth>das beben/ schüttern</orth>
                         </form>
                     </cit>
                 </sense>
@@ -41599,7 +41719,19 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>das austra-Duszęnie/ das würgen</orth>
+                            <orth>das austrage[n]</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>Duszęnie</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>das würgen</orth>
                         </form>
                     </cit>
                 </sense>
@@ -43992,7 +44124,19 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>das Ehren-Małzeństwo/ der Ehstand</orth>
+                            <orth>das Ehren-Ambt</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>Małzeństwo</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>der Ehstand</orth>
                         </form>
                     </cit>
                 </sense>
@@ -44317,7 +44461,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>die Mitgeniessung/ Theilhafftig- keit</orth>
+                            <orth>die Mitgeniessung/ Theilhafftigkeit</orth>
                         </form>
                     </cit>
                 </sense>
@@ -45117,12 +45261,12 @@
             </entry>
             <entry>
                 <form type="lemma">
-                    <orth>Klask</orth>
+                    <orth>Klask/ Trzask</orth>
                 </form>
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>Trzask/ Schmitz/ Schmatz</orth>
+                            <orth>Schmitz/ Schmatz</orth>
                         </form>
                     </cit>
                 </sense>
@@ -45375,7 +45519,19 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>der Ringer ádámászek/ Damaschk</orth>
+                            <orth>der Ringer</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>ádámászek</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>Damaschk</orth>
                         </form>
                     </cit>
                 </sense>
@@ -45700,7 +45856,19 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>Wasser-Podkopnik/ schantzgräber</orth>
+                            <orth>Wasserman</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>Podkopnik</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>schantzgräber</orth>
                         </form>
                     </cit>
                 </sense>
@@ -45820,19 +45988,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>das Schlacken/</orth>
-                        </form>
-                    </cit>
-                </sense>
-            </entry>
-            <entry>
-                <form type="lemma">
-                    <orth>Regen</orth>
-                </form>
-                <sense>
-                    <cit type="translationEquivalent" xml:lang="ger">
-                        <form>
-                            <orth>und Schnee</orth>
+                            <orth>das Schlacken/ Regen/ und Schnee</orth>
                         </form>
                     </cit>
                 </sense>
@@ -45916,7 +46072,19 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>ein Meerkrebs áłábástr/ glatter Marmolstein</orth>
+                            <orth>ein Meerkrebs</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>áłábástr</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>glatter Marmolstein</orth>
                         </form>
                     </cit>
                 </sense>
@@ -46260,12 +46428,12 @@
             </entry>
             <entry>
                 <form type="lemma">
-                    <orth>Wągry</orth>
+                    <orth>Wągry/ węgry</orth>
                 </form>
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>węgry/ Sonnensprossen/ Finnen</orth>
+                            <orth>Sonnensprossen/ Finnen</orth>
                         </form>
                     </cit>
                 </sense>
@@ -47997,7 +48165,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>die Behendigkeit/ Geschwindig- keit</orth>
+                            <orth>die Behendigkeit/ Geschwindigkeit</orth>
                         </form>
                     </cit>
                 </sense>
@@ -51565,19 +51733,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>Prächtig/</orth>
-                        </form>
-                    </cit>
-                </sense>
-            </entry>
-            <entry>
-                <form type="lemma">
-                    <orth>Großmütig</orth>
-                </form>
-                <sense>
-                    <cit type="translationEquivalent" xml:lang="ger">
-                        <form>
-                            <orth>tapffer</orth>
+                            <orth>Prächtig/ Großmütig tapffer</orth>
                         </form>
                     </cit>
                 </sense>
@@ -53060,7 +53216,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>unbeschädigt/ unversehret/ un- verdorben</orth>
+                            <orth>unbeschädigt/ unversehret/ unverdorben</orth>
                         </form>
                     </cit>
                 </sense>
@@ -53674,7 +53830,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>ungeschmack/ unschmack- hafftig</orth>
+                            <orth>ungeschmack/ unschmackhafftig</orth>
                         </form>
                     </cit>
                 </sense>
@@ -58137,7 +58293,19 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>das Rogen gebieret łágodny/ Freundlich/ lieblich/ holdselig</orth>
+                            <orth>das Rogen gebieret</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>łágodny</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>Freundlich/ lieblich/ holdselig</orth>
                         </form>
                     </cit>
                 </sense>
@@ -58368,19 +58536,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>willfährig/</orth>
-                        </form>
-                    </cit>
-                </sense>
-            </entry>
-            <entry>
-                <form type="lemma">
-                    <orth>Dienstfertig</orth>
-                </form>
-                <sense>
-                    <cit type="translationEquivalent" xml:lang="ger">
-                        <form>
-                            <orth>gehorsam</orth>
+                            <orth>willfährig/ Dienstfertig/ gehorsam</orth>
                         </form>
                     </cit>
                 </sense>
@@ -58958,7 +59114,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>das zum schencken ist/ oder geschen- cket wird</orth>
+                            <orth>das zum schencken ist/ oder geschencket wird</orth>
                         </form>
                     </cit>
                 </sense>
@@ -60906,12 +61062,12 @@
             </entry>
             <entry>
                 <form type="lemma">
-                    <orth>Cynowáty</orth>
+                    <orth>Cynowáty/ cynkowáty obruz</orth>
                 </form>
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>cynkowáty obruz/ ein Zwillichen Tischtuch</orth>
+                            <orth>ein Zwillichen Tischtuch</orth>
                         </form>
                     </cit>
                 </sense>
@@ -61031,7 +61187,19 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>dem Eiß ähnlich łojowáty/ das vom Unschlit ist</orth>
+                            <orth>dem Eiß ähnlich</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>łojowáty</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>das vom Unschlit ist</orth>
                         </form>
                     </cit>
                 </sense>
@@ -61100,12 +61268,12 @@
             </entry>
             <entry>
                 <form type="lemma">
-                    <orth>Wężowaty</orth>
+                    <orth>Wężowaty/ wężykowáty</orth>
                 </form>
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>wężykowáty/ das wie eine Schlange krumm ist</orth>
+                            <orth>das wie eine Schlange krumm ist</orth>
                         </form>
                     </cit>
                 </sense>
@@ -61882,12 +62050,12 @@
             </entry>
             <entry>
                 <form type="lemma">
-                    <orth>Śrzenisty</orth>
+                    <orth>Śrzenisty/ śrzonisty</orth>
                 </form>
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>śrzonisty/ reiffig/ das voll Reiff ist</orth>
+                            <orth>reiffig/ das voll Reiff ist</orth>
                         </form>
                     </cit>
                 </sense>
@@ -62599,7 +62767,19 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>unflätig łáskáwy/ freundlich/ günstig</orth>
+                            <orth>unflätig</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>łáskáwy</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>freundlich/ günstig</orth>
                         </form>
                     </cit>
                 </sense>
@@ -63019,7 +63199,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>schandfleckisch/ verläumbde- risch</orth>
+                            <orth>schandfleckisch/ verläumbderisch</orth>
                         </form>
                     </cit>
                 </sense>
@@ -63624,7 +63804,19 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>Mertzblümlein łokćiowy/ das eine Elle lang oder breit ist</orth>
+                            <orth>Mertzblümlein</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>łokćiowy</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>das eine Elle lang oder breit ist</orth>
                         </form>
                     </cit>
                 </sense>
@@ -64668,9 +64860,31 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>so lange (bißher) hat er mich der Schuld wegen nicht erinnert
-                                áOdkądże mam strzelać/ von wo sol ich schiessen Możesż wászeć od tąd
-                                pocżąć pisać/ er (sie) kan von hienan anfangen zuschreiben</orth>
+                            <orth>so lange (bißher) hat er mich der Schuld wegen nicht erinnert</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>áOdkądże mam strzelać</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>von wo sol ich schiessen</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>Możesż wászeć od tąd pocżąć pisać</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>er (sie) kan von hienan anfangen zuschreiben</orth>
                         </form>
                     </cit>
                 </sense>
@@ -64739,12 +64953,12 @@
             </entry>
             <entry>
                 <form type="lemma">
-                    <orth>Zkądem ztem lnem</orth>
+                    <orth>Zkądem ztem lnem/ kono piámi</orth>
                 </form>
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>kono piámi/ von wannen ich mit dem Flachs Hanff bin</orth>
+                            <orth>von wannen ich mit dem Flachs Hanff bin</orth>
                         </form>
                     </cit>
                 </sense>
@@ -64952,20 +65166,31 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>so wie du mich vor deinen Augen siehest Ták śię rzecż ma á nie
-                                inácżey/ so verhält sich die Sache und nicht anders</orth>
+                            <orth>so wie du mich vor deinen Augen siehest</orth>
                         </form>
                     </cit>
                 </sense>
             </entry>
             <entry>
                 <form type="lemma">
-                    <orth>To już ták stáry</orth>
+                    <orth>Ták śię rzecż ma á nie inácżey</orth>
                 </form>
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>(stára) so ist er (sie) schon so/ alt</orth>
+                            <orth>so verhält sich die Sache und nicht anders</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>To już ták stáry (stára)</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>so ist er (sie) schon so/ alt</orth>
                         </form>
                     </cit>
                 </sense>
@@ -65057,6 +65282,18 @@
             </entry>
             <entry>
                 <form type="lemma">
+                    <orth>á ja ná wznák leżeć nie mogę</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>und ich kan rücklings nicht liegen</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
                     <orth>Wspák łáźi; jáko Rak</orth>
                 </form>
                 <sense>
@@ -65074,7 +65311,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>ich sietze nicht ger- ne rücklings</orth>
+                            <orth>ich sietze nicht gerne rücklings</orth>
                         </form>
                     </cit>
                 </sense>
@@ -65180,13 +65417,12 @@
             </entry>
             <entry>
                 <form type="lemma">
-                    <orth>Kiedybym wcżás otym mogł</orth>
+                    <orth>Kiedybym wcżás otym mogł (mogłá) mieć wiádomość</orth>
                 </form>
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>(mogłá) mieć wiádomość/ wenn ich zeilich davon könte Nachricht
-                                haben</orth>
+                            <orth>wenn ich zeilich davon könte Nachricht haben</orth>
                         </form>
                     </cit>
                 </sense>
@@ -65247,8 +65483,20 @@
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
                             <orth>er (sie) hat allezeit nach dem Herren und nicht nach der Frauen
-                                gefraget á Teraz śię pyta zá pánną młodszą/ un[d] ietzund fraget er
+                                gefraget / un[d] ietzund fraget er
                                 (sie) nach der Iüngsten Iungfer</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>á Teraz śię pyta zá pánną młodszą</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>un[d] ietzund fraget er (sie) nach der Iüngsten Iungfer</orth>
                         </form>
                     </cit>
                 </sense>
@@ -66652,7 +66900,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>unverständlich/ unvernehm- lich</orth>
+                            <orth>unverständlich/ unvernehmlich</orth>
                         </form>
                     </cit>
                 </sense>
@@ -68122,7 +68370,19 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>überflüssig łáskáwie/ günstig/ geneigt</orth>
+                            <orth>überflüssig</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>łáskáwie</orth>
+                </form>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>günstig/ geneigt</orth>
                         </form>
                     </cit>
                 </sense>
