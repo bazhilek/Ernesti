@@ -1531,7 +1531,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">der spring-Reuter<pc force="strong" norm=",">/</pc> der von einem Pferde auff das andere sich
+                            <orth opt="false">der spring-Reuter<pc force="strong" norm="," type="separator" subtype="relative_clause">/</pc> der von einem Pferde auff das andere sich
                                 setzet.</orth>
                         </form>
                     </cit>
@@ -1772,7 +1772,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">Wasserbrenner<pc force="strong" norm=",">/</pc> Distilirer</orth>
+                            <orth opt="false">Wasserbrenner<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc> Distilirer</orth>
                         </form>
                     </cit>
                 </sense>
@@ -2306,26 +2306,15 @@
                     </cit>
                 </sense>
             </entry>
-            <entry type="main">
-                <form type="lemma" opt="false">
-                    <orth opt="false">Słodycż</orth>
+            <entry>
+                <form type="lemma">
+                    <orth>Słodycż</orth>
                 </form>
-                <sense opt="false">
+                <pc>/</pc>
+                <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
-                        <form opt="false">
-                            <orth opt="false">die Süsse<pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc> als</orth>
-                        </form>
-                    </cit>
-                </sense>
-            </entry>
-            <entry type="main">
-                <form type="lemma" opt="false">
-                    <orth opt="false">Meth</orth>
-                </form>
-                <sense opt="false">
-                    <cit type="translationEquivalent" xml:lang="ger">
-                        <form opt="false">
-                            <orth opt="false">Götter Tranck</orth>
+                        <form>
+                            <orth>die Süsse<pc force="strong" norm="" type="separator">/</pc> als Meth<pc force="strong" norm="," type="separator" subtype="noun_chain">/</pc> Götter Tranck</orth>
                         </form>
                     </cit>
                 </sense>
@@ -27483,7 +27472,7 @@
                 <form type="lemma" opt="false">
                     <orth opt="false">Prześiadacż</orth>
                 </form>
-                <sense opt="false">
+                <sense opt="false"><!-- TODO: doubled entry? -->
                     <cit type="translationEquivalent" xml:lang="ger">
                         <quote>der spring-Reuter/ der von einem Pferde auff das andere sich
                             setzet.</quote>
