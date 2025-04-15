@@ -251,7 +251,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">ein Kerb<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>ein</supplied> Spalt</orth>
+                            <orth opt="false">ein Kerb<pc force="weak" norm="" type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>ein</supplied> Spalt</orth><!-- TODO: maybe better 1. eine Kerb, ein Spalt 2. ein Kerbspalt? -->
                         </form>
                     </cit>
                 </sense>
@@ -434,7 +434,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">die Gleiche Slub<pc force="strong" norm=",">/</pc> das Gelübde</orth>
+                            <orth opt="false">die Gleiche Slub<pc force="strong" norm=",">/</pc> das Gelübde</orth><!-- TODO: separate entries; die Gleiche != przegub: truncated entry? -->
                         </form>
                     </cit>
                 </sense>
@@ -614,7 +614,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">der Leitstrang<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>der</supplied> Rimsel</orth>
+                            <orth opt="false">der Leitstrang<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>der</supplied> Rimsel</orth><!-- TODO: Rimsel, Imsel not attested in DWDS -->
                         </form>
                     </cit>
                 </sense>
@@ -638,7 +638,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">der bogensessel<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>der</supplied> Stulgang</orth>
+                            <orth opt="false">der bogensessel<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>der</supplied> Stulgang</orth><!-- TODO: consider separating sense (1. stołek 2. stolec) --> 
                         </form>
                     </cit>
                 </sense>
@@ -746,7 +746,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">ein Kammer-Stuben-Gesell<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>ein</supplied> Mitwohner</orth>
+                            <orth opt="false">ein Kammer-Stuben-Gesell<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc> Mitwohner</orth>
                         </form>
                     </cit>
                 </sense>
@@ -1024,7 +1024,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">ein Pfeiler<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>ein</supplied> Stütze</orth>
+                            <orth opt="false">ein Pfeiler<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>eine</supplied> Stütze</orth><!-- TODO: either 1. eine Pfeilerstutze or 2. ein Pfeiler, eine Stutze (article doesn't correspond to the first one)-->
                         </form>
                     </cit>
                 </sense>
@@ -1544,7 +1544,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">ein Ordner<pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc> zusammensetzer</orth>
+                            <orth opt="false">ein Ordner<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>ein</supplied> zusammensetzer</orth>
                         </form>
                     </cit>
                 </sense>
