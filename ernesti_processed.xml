@@ -2350,7 +2350,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">die Stange<pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc> daran Bohnen<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>die</supplied> Hopffen wächset<pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc> daran Bohnen<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>die</supplied> Hopffen wächset</orth>
+                            <orth opt="false">die Stange<pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc> daran Bohnen<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc> Hopffen wächset</orth>
                         </form>
                     </cit>
                 </sense>
@@ -2386,7 +2386,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">die Spur<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>die</supplied> Fußstapffen</orth>
+                            <orth opt="false">die Spur<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>der</supplied> Fußstapffen</orth>
                         </form>
                     </cit>
                 </sense>
@@ -2653,7 +2653,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">der Vorelter Vater<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>der</supplied></orth>
+                            <orth opt="false">der Vorelter Vater<pc force="strong" norm="" type="separator" subtype="unknown">/</pc></orth>
                         </form>
                     </cit>
                 </sense>
@@ -2689,7 +2689,20 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">die Abfahrt<pc force="strong" norm=",">/</pc> das abfahren w Iazd<pc force="strong" norm=",">/</pc> die Einfarth<pc force="strong" norm=",">/</pc> das abfahren w Iazd<pc force="strong" norm=",">/</pc> die Einfarth</orth>
+                            <orth opt="false">die Abfahrt<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_w_art">/</pc> das abfahren</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>w Iazd</orth>
+                </form>
+                <pc>/</pc>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>die Einfarth</orth>
                         </form>
                     </cit>
                 </sense>
@@ -2809,7 +2822,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">die Kirchen Ceremonien<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>die</supplied> Gebrauch</orth>
+                            <orth opt="false">die Kirchen Ceremonien<pc force="weak" norm="">/</pc> Gebrauch</orth><!-- TODO: compositum? -->
                         </form>
                     </cit>
                 </sense>
@@ -3375,7 +3388,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">der rundte Kreiß<pc force="strong" norm=",">/</pc> die rundte Gestalt<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied/> Umbfang<pc force="strong" norm=",">/</pc> die rundte Gestalt<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied/> Umbfang</orth>
+                            <orth opt="false">der rundte Kreiß<pc force="strong" norm=",">/</pc> die rundte Gestalt<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>der</supplied> Umbfang</orth>
                         </form>
                     </cit>
                 </sense>
@@ -4196,7 +4209,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">geschabte Leinwand davon die Bar- bierer wicken drehen<pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc> in die
+                            <orth opt="false">geschabte Leinwand davon die Bar- bierer wicken drehen<pc force="strong" norm="," type="separator" subtype="clause">/</pc> in die
                                 Wunden zu legen</orth>
                         </form>
                     </cit>
@@ -4919,7 +4932,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">der Brack<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>der</supplied> Außschus</orth>
+                            <orth opt="false">der Brack<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>der</supplied> Außschus</orth><!-- TODO: verify if not compositum-->
                         </form>
                     </cit>
                 </sense>
@@ -5449,7 +5462,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">der Glantz der Sonnen<pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc> deß Feuers</orth>
+                            <orth  opt="false">der Glantz der Sonnen<pc force="strong" norm=",">/</pc> deß Feuers</orth>
                         </form>
                     </cit>
                 </sense>
@@ -5521,7 +5534,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">die Breme<pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc> grosse Fliege</orth>
+                            <orth opt="false">die Breme<pc force="strong" norm=",">/</pc><supplied>die</supplied> grosse Fliege</orth>
                         </form>
                     </cit>
                 </sense>
@@ -5605,7 +5618,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">Erwerb<pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc> erworben Geld</orth>
+                            <orth opt="false">Erwerb<pc force="strong" norm=",">/</pc> erworben Geld</orth>
                         </form>
                     </cit>
                 </sense>
@@ -6267,7 +6280,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">ein Stifft<pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc> abgebrochen Stück</orth>
+                            <orth opt="false">ein Stifft<pc force="strong" norm=",">/</pc> abgebrochen Stück</orth><!-- TODO: consider providing a correct article to the NP-->
                         </form>
                     </cit>
                 </sense>
@@ -6521,7 +6534,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">der Rabant<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>der</supplied> Sillen Strang</orth>
+                            <orth opt="false">der Rabant<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>der</supplied> Sillen Strang</orth><!-- TODO: requires verification Rabant, Sillentstrang are not attested -->
                         </form>
                     </cit>
                 </sense>
@@ -6641,7 +6654,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">die Angsthafftigkeit<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>die</supplied> Kummer</orth>
+                            <orth opt="false">die Angsthafftigkeit<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc> Kummer</orth>
                         </form>
                     </cit>
                 </sense>
@@ -6701,7 +6714,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">das Glück<pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc> zufall</orth>
+                            <orth opt="false">das Glück<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>das</supplied> zufall</orth>
                         </form>
                     </cit>
                 </sense>
@@ -7051,7 +7064,19 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">der Beutel ná pierśi pleszek<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>der</supplied> Brust Harnisch</orth>
+                            <orth opt="false">der Beutel</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry type="main">
+                <form type="lemma">
+                    <orth>ná pierśi pleszek</orth>
+                </form>
+                <sense opt="false">
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form opt="false">
+                            <orth opt="false">Brust Harnisch</orth>
                         </form>
                     </cit>
                 </sense>
@@ -7267,7 +7292,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">die Außgab-Zádátek<pc force="strong" norm=",">/</pc> der Mitgroschen</orth>
+                            <orth opt="false">die Außgab-Zádátek<pc force="strong" norm=",">/</pc> der Mitgroschen</orth><!-- TODO: the entry should be split on "-" in Außgab-Zádátek  -->
                         </form>
                     </cit>
                 </sense>
@@ -7641,7 +7666,20 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">der Thon zgodny dźwięk<pc force="strong" norm=",">/</pc> die zusammenstimmung</orth>
+                            <orth opt="false">der Thon</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>zgodny dźwięk</orth>
+                </form>
+                <pc>/</pc>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>die zusammenstimmung</orth>
                         </form>
                     </cit>
                 </sense>
@@ -7749,7 +7787,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">ein Meer-Fisch<pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc> so mit dem Bauch über sich schwimt</orth>
+                            <orth opt="false">ein Meer-Fisch<pc force="strong" norm="," type="separator" subtype="relative">/</pc> so mit dem Bauch über sich schwimt</orth>
                         </form>
                     </cit>
                 </sense>
@@ -8172,7 +8210,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">der Fürhang<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>der</supplied> Schatten</orth>
+                            <orth opt="false">der Fürhang<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>der</supplied> Schatten</orth><!-- TODO: verify if not compositum: Fuerhangschatten -->
                         </form>
                     </cit>
                 </sense>
@@ -8534,7 +8572,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">Paruckmacher<pc force="strong" norm=",">/</pc> der die Haar krau- se machet</orth>
+                            <orth opt="false">Paruckmacher<pc force="strong" norm="," type="separator" subtype="relativ">/</pc> der die Haar krau- se machet</orth>
                         </form>
                     </cit>
                 </sense>
@@ -8666,7 +8704,20 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">der Forstmeister łagiewnik<pc force="strong" norm=",">/</pc> der Flaschenmacher</orth>
+                            <orth opt="false">der Forstmeister</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>łagiewnik</orth>
+                </form>
+                <pc>/</pc>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>der Flaschenmacher</orth>
                         </form>
                     </cit>
                 </sense>
@@ -9414,7 +9465,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">ein Reitküssen<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>ein</supplied> Pomst</orth>
+                            <orth opt="false">ein Reitküssen<pc force="strong" norm="," type="separator" subtype="noun_equiv_chain_wo_art">/</pc><supplied>ein</supplied> Pomst</orth><!-- TODO: verify Pomst: not attested in dicts or corpora -->
                         </form>
                     </cit>
                 </sense>
@@ -9618,7 +9669,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">das Geschrey<pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc> jauchzen</orth>
+                            <orth opt="false">das Geschrey<pc force="strong" norm=",">/</pc> jauchzen</orth>
                         </form>
                     </cit>
                 </sense>
@@ -9909,7 +9960,7 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">das kirren<pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc> klage</orth>
+                            <orth opt="false">das kirren<pc force="strong" norm="," >/</pc><supplied>die</supplied> klage</orth><!-- TODO: verify if not compositum -->
                         </form>
                     </cit>
                 </sense>
@@ -10427,19 +10478,33 @@
                 <sense opt="false">
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form opt="false">
-                            <orth opt="false">der Hobel u Drabiny szcżebel<pc force="strong" norm=",">/</pc> die Sprossen an der Leiter</orth>
+                            <orth opt="false">der Hobel</orth>
                         </form>
                     </cit>
                 </sense>
             </entry>
-            <entry type="main">
-                <form type="lemma" opt="false">
-                    <orth opt="false">Pryszcżei ná ćiele</orth>
+            <entry>
+                <form type="lemma">
+                    <orth>u Drabiny szcżebel</orth>
                 </form>
-                <sense opt="false">
+                <pc>/</pc>
+                <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
-                        <form opt="false">
-                            <orth opt="false">ná chlebie<pc force="strong" norm=",">/</pc> eine Blase am Leib Brodt</orth>
+                        <form>
+                            <orth>die Sprossen an der Leiter</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form type="lemma">
+                    <orth>Pryszcżei ná ćiele/ ná chlebie</orth>
+                </form>
+                <pc>/</pc>
+                <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>eine Blase am Leib Brodt</orth>
                         </form>
                     </cit>
                 </sense>
