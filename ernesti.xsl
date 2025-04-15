@@ -45,7 +45,9 @@
                                         not(matches(normalize-space($current), '^(der|die|das|den|des|ein|eine)\s'))">
                                         <xsl:element name="pc">
                                             <xsl:attribute name="force" select="'strong'"/>
-                                            <xsl:attribute name="norm" select="''"/>
+                                            <xsl:attribute name="norm" select="','"/>
+                                            <xsl:attribute name="type" select="'separator'"/>
+                                            <xsl:attribute name="subtype" select="'adj_chain'"/>
                                             <xsl:value-of select="'/'"/>
                                         </xsl:element>
                                         <xsl:value-of select="$current"/>
@@ -65,6 +67,8 @@
                                                 <xsl:element name="pc">
                                                     <xsl:attribute name="force" select="'strong'"/>
                                                     <xsl:attribute name="norm" select="','"/>
+                                                    <xsl:attribute name="type" select="'separator'"/>
+                                                    <xsl:attribute name="subtype" select="'noun_equiv_chain_wo_art'"/>
                                                     <xsl:value-of select="'/'"/>
                                                 </xsl:element>
                                                 <xsl:element name="supplied">
@@ -100,7 +104,6 @@
         </xsl:choose>
         
         <!-- proper noun phrases (die Kirchen Ceremonien/ Gebrauch) -->
-        <!-- adjective chains (die flatte schlechte Rinde) -->
         <!-- noun chains (
             without preceding article:
                 Milch Peltz/ Milch Haut
