@@ -259,7 +259,8 @@
                 </form>
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
-                        <quote>der Stiffsohn</quote>
+                        <form>
+                            <orth>der Stiffsohn</orth></form>
                     </cit>
                 </sense>
             </entry>
