@@ -20,7 +20,7 @@
     </teiHeader>
     <text>
         <front>
-            <pb n="1"/>
+            <pb n="3 (X1)"/>
             <titlePage>
                 <docTitle>
                     <titlePart xml:lang="pl" type="main">Forytarz Ięzyká Polskiego</titlePart>
@@ -43,7 +43,7 @@
                     Gottfried Gründer <date>1674</date>
                 </docImprint>
             </titlePage>
-            <pb n="3"/>
+            <pb n="5 (X2)"/>
             <div type="dedication" xml:lang="de">
                 <p>Bornehmer/ und Hochgeathteter Eltern/ bey hiesiger Welt-berühmten Kayser. und
                     Königl. Stadt Breßlau. Kunst-und Tugend-Befliessenen Geliebtesten Söhnen. </p>
@@ -58,7 +58,7 @@
                     Hertz-treuem Wunsch/ Gottes reichen Segens/ stets blühender Gefundheit/ und
                     alles ersinnlichen Wolergehens. Johannes Ernesti. </p>
             </div>
-            <pb n="4"/>
+            <pb n="6 (X2v)"/>
             <div type="preface">
                 <p xml:lang="pl"> Do Czytelniká. GDyby Czytelniku życżliwy/ Forytarz ninieysy Ięzyká
                     Sármáckiego Rąk twych śię dostał/ y przy spoyrzeniu nań/ Czytaniem twem uracżony
@@ -67,7 +67,7 @@
                     Niedostátek sposobney jákey kśiążecżki/ dla Młodźi Ięzyká Polskiego uczyć śię
                     prágnącey/ ná Autorze cżaś ná pracách szkolnych śćisłych trawiącem/ wymogł.
                     Tytuł wolność/ ktora każdemu Rzecży swe názywać zostáwa/ kśiędze <fw type="custos">tey/</fw>
-                    <pb n="5"/> tey/ przywłasżcżyłá. Zá pilnem záżywánie<supplied reason="editorial" resp="#ed1">m</supplied> stáwi śię wszem Ięzyká
+                    <pb n="7 (X3)"/> tey/ przywłasżcżyłá. Zá pilnem záżywánie<supplied reason="editorial" resp="#ed1">m</supplied> stáwi śię wszem Ięzyká
                     polskiego nieświadomem Forytarzem doświadcżonem. Nauczyćiele bacżni/ znaydą z
                     przodku słowá istotne/ wszystkie nie mal według Rodzájow swych idące: dáley
                     przydáne tákże/ ná i/y ná y śię kończące/ náwet będą mieli słowká z Lacińskiego
@@ -80,7 +80,7 @@
                     insse omyłki/ mogły bydź oznaymione/ y Rejestr przydány/ <fw type="signature">)(
                         iij</fw>
                     <fw type="custos">chćiey</fw>
-                    <pb n="6"/> chćiey to skwápliwośći przycżytać/ spodźiewájąc śię przy Aukcyey
+                    <pb n="8 (X3v)"/> chćiey to skwápliwośći przycżytać/ spodźiewájąc śię przy Aukcyey
                     Forytarza tego/ znacżney popráwy/ y porządku przystoynego we wszystkim/ zostań
                     ná Autora łáskaw ktoryć/ obiecując sobie po tobie wszelkiey szcżerośći/ y
                     przyjaźnego nápominania/ w cżymby potknął był/ wszelákich pomyślnych życży
@@ -90,7 +90,7 @@
                     Lesens möchte gewürdiget werden/ so wollest du ihn/ wenn dir etwas
                     unannehmliches darinnen vorkommen solte/ deines geneigten Urtheils geniessen
                     lassen/ in Erwegung/ das selbeten <fw type="custos">nichts</fw>
-                    <pb n="7"/> nichts anders/ als der Mangel eines beguemen Büchleins/ für die
+                    <pb n="9 (X4)"/> nichts anders/ als der Mangel eines beguemen Büchleins/ für die
                     begierige Iugend die Polnische Sprache zu erlernen/ dem Autori, der die gantze
                     Zeit unter unabläßlicher täglicher Schul Arbeit zubringet/ abgenöthiget hat. Den
                     Titul hat die Freyheit/ die einem ieden seine Sachen zu nennen gelassen wird/
@@ -102,7 +102,7 @@
                     Wörterchen/ so nach dem Lateinischen zu- und füge- Wort genennet werden. Hoffe/
                     daß die Iugend/ wenn sie anmercken wird/ daß die eintzelen Wörter meistentheils
                     <fw type="custos">Reim-</fw>
-                    <pb n="8"/> Reimweise geordnet sind/ sich hurtiger in Ubung derselben erweisen
+                    <pb n="10 (X4v)"/> Reimweise geordnet sind/ sich hurtiger in Ubung derselben erweisen
                     werde. Das Deutsche lasse dir keinen Eckel machen/ ob es dir unterweilen hart
                     vorkommen möhte/ alldieweil es nach dem Polnischen Wörtern gegeben ist. Daß die
                     sonderlichen Tittel über den Worten welches Geschlechts sie sind/ in diesem
@@ -114,7 +114,7 @@
                     freundlichen Erinnerung/ worinnen er möchte verstossen haben/ versiehet/ und dir
                     alle ersinnliche Ersprießligkeit wünschet. </p>
             </div>
-            <pb n="9"/>
+            <pb n="11 (A1)"/>
             <titlePage xml:lang="pl">
                 <docTitle>
                     <titlePart type="main">Forytar Ięzyká Polskiego</titlePart>
@@ -130,7 +130,7 @@
         </front>
         <body>
             <div type="dictionary">
-            <pb n="1"/>
+            <pb n="13 (A2)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Schab</orth>
@@ -570,7 +570,7 @@
             </entry>
             <fw type="signature">A ij</fw>
             <fw type="custos">Czub</fw>
-            <pb n="2"/>
+            <pb n="14 (A2v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Czub</orth>
@@ -606,7 +606,20 @@
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
                             <orth>die Gleiche Slub<pc force="strong" norm=",">/</pc> das
-                                Gelübde</orth><!-- TODO: separate entries; die Gleiche != przegub: truncated entry? -->
+                                Gelübde</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+            <entry type="main">
+                <form type="lemma">
+                    <orth>Slub</orth>
+                </form>
+                <pc>/</pc>
+                    <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>das Gelübde</orth>
                         </form>
                     </cit>
                 </sense>
@@ -1104,7 +1117,7 @@
                 </sense>
             </entry>
             <fw type="custos">Bezżeniec</fw>
-            <pb n="3"/>
+            <pb n="15 (A3)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Bezżeniec</orth>
@@ -1679,7 +1692,7 @@
             </entry>
             <fw type="signature">A iij</fw>
             <fw type="custos">Pámięc</fw>
-            <pb n="4"/>
+            <pb n="16 (A3v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Pámięc</orth>
@@ -2243,7 +2256,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="5"/>
+            <pb n="17 (A4)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Przygániacż</orth>
@@ -2831,7 +2844,7 @@
             </entry>
             <fw type="signature">A jv</fw>
             <fw type="custos">Nakład/</fw>
-            <pb n="6"/>
+            <pb n="18 (A4v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Nákład</orth>
@@ -3298,7 +3311,7 @@
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
                             <orth>die Kirchen Ceremonien<pc force="weak" norm="">/</pc>
-                                Gebrauch</orth><!-- TODO: compositum? -->
+                                Gebrauch</orth>
                         </form>
                     </cit>
                 </sense>
@@ -3395,7 +3408,7 @@
                 </sense>
             </entry>
             <fw type="custos">Schod</fw>
-            <pb n="7"/>
+            <pb n="19 (A5)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Schod</orth>
@@ -4007,7 +4020,7 @@
             </entry>
             <fw type="signature">A v</fw>
             <fw type="custos">Przećiąg</fw>
-            <pb n="8"/>
+            <pb n="20 (A5v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Przećiąg plácu</orth>
@@ -4665,7 +4678,7 @@
                 </sense>
             </entry>
             <fw type="custos">Proch</fw>
-            <pb n="9"/>
+            <pb n="21 (A6)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Proch</orth>
@@ -5293,7 +5306,7 @@
                 </sense>
             </entry>
             <fw type="custos">Kruszki/</fw>
-            <pb n="10"/>
+            <pb n="22 (A6v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Kruszki</orth>
@@ -5905,7 +5918,7 @@
                 </sense>
             </entry>
             <fw type="custos">Proszak/</fw>
-            <pb n="11"/>
+            <pb n="23 (A7)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Proszak</orth>
@@ -6508,7 +6521,7 @@
                 </sense>
             </entry>
             <fw type="custos">Lubek/</fw>
-            <pb n="12"/>
+            <pb n="24 (A7v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Lubek</orth>
@@ -7122,7 +7135,7 @@
                         <form>
                             <orth>ein Stifft<pc force="strong" norm=",">/</pc>
                                 abgebrochen
-                            Stück</orth><!-- TODO: consider providing a correct article to the NP-->
+                            Stück</orth>
                         </form>
                     </cit>
                 </sense>
@@ -7154,7 +7167,7 @@
                 </sense>
             </entry>
             <fw type="custos">Akádemik</fw>
-            <pb n="13"/>
+            <pb n="25 (A8)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Akádemik</orth>
@@ -7732,7 +7745,7 @@
                 </sense>
             </entry>
             <fw type="custos">Nadmiarek/</fw>
-            <pb n="14"/>
+            <pb n="26 (A8v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Nádmiarek</orth>
@@ -8259,9 +8272,20 @@
                     <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>die Außgab-Zádátek<pc force="strong" norm=",">/</pc>
-                                der
-                            Mitgroschen</orth><!-- TODO: the entry should be split on "-" in Außgab-Zádátek  -->
+                            <orth>die Außgab</orth>
+                        </form>
+                    </cit>
+                </sense>
+            </entry>
+             <entry type="main">
+                <form type="lemma">
+                    <orth>Zádátek</orth>
+                </form>
+                <pc>/</pc>
+                    <sense>
+                    <cit type="translationEquivalent" xml:lang="ger">
+                        <form>
+                            <orth>der Mitgroschen</orth>
                         </form>
                     </cit>
                 </sense>
@@ -8306,7 +8330,7 @@
                 </sense>
             </entry>
             <fw type="custos">Zápárstek/</fw>
-            <pb n="15"/>
+            <pb n="27 (B1)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Zápárstek</orth>
@@ -8833,7 +8857,7 @@
             </entry>
             <fw type="signature">B</fw>
             <fw type="custos">Iábłecżnik</fw>
-            <pb n="16"/>
+            <pb n="28 (B1v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Iábłecżńik</orth>
@@ -9399,7 +9423,7 @@
                 </sense>
             </entry>
             <fw type="custos">Sukiennik</fw>
-            <pb n="17"/>
+            <pb n="29 (B2)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Sukiennik</orth>
@@ -9955,7 +9979,7 @@
                 </sense>
             </entry>
             <fw type="custos">Smárownik</fw>
-            <pb n="18"/>
+            <pb n="30 (B2v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Smárownik</orth>
@@ -10527,7 +10551,7 @@
                 </sense>
             </entry>
             <fw type="custos">Wzrok/</fw>
-            <pb n="19"/>
+            <pb n="31 (B3)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Wzrok</orth>
@@ -11139,7 +11163,7 @@
             </entry>
             <fw type="signature">B iij</fw>
             <fw type="custos">Rzemyk/</fw>
-            <pb n="20"/>
+            <pb n="32 (B3v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Rzemyk</orth>
@@ -11228,7 +11252,7 @@
                         <form>
                             <orth>das kirren<pc force="strong" norm=",">/</pc>
                                 <supplied>die</supplied>
-                            klage</orth><!-- TODO: verify if not compositum -->
+                            klage</orth>
                         </form>
                     </cit>
                 </sense>
@@ -11776,7 +11800,7 @@
                 </sense>
             </entry>
             <fw type="custos">Zástrał/</fw>
-            <pb n="21"/>
+            <pb n="33 (B4)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Zástrał w Budowániu</orth>
@@ -12357,7 +12381,7 @@
             </entry>
             <fw type="signature">B jv</fw>
             <fw type="custos">Nośiciel/</fw>
-            <pb n="22"/>
+            <pb n="34 (B4v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Nośiciel</orth>
@@ -12545,7 +12569,7 @@
                 <pc>/</pc>
                     <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
-                        <form> <!--TODO: def realnoznacz. (semantyka TEI) -->
+                        <form>
                             <orth>ein
                                     Auffzieher<pc force="strong" norm=",">/</pc> der etwas
                                     auffscheubt</orth>
@@ -12718,7 +12742,7 @@
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
                             <orth>der Hopff<pc force="weak" norm="" type="separator">/</pc>
-                            </orth> <!-- TODO: redundant / ? -->
+                            </orth>
                         </form>
                     </cit>
                 </sense>
@@ -13010,7 +13034,7 @@
                 </sense>
             </entry>
             <fw type="custos">Kárbun-</fw>
-            <pb n="23"/>
+            <pb n="35 (B5)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Kárbunkuł</orth>
@@ -13366,7 +13390,7 @@
                     <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>Kündig<pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc> wolwissend</orth> <!-- TODO: verify capital in Kündig - kündig? -->
+                            <orth>Kündig<pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc> wolwissend</orth>
                         </form>
                     </cit>
                 </sense>
@@ -13594,7 +13618,7 @@
             </entry>
             <fw type="signature">B v</fw>
             <fw type="custos">Hurm/</fw>
-            <pb n="24"/>
+            <pb n="36 (B5v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Hurm</orth>
@@ -14090,7 +14114,7 @@
                     <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>die Klette<pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc> groß Kletten Kraut</orth> <!-- TODO: verify spelling Klettenkraut? -->
+                            <orth>die Klette<pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc> groß Kletten Kraut</orth>
                         </form>
                     </cit>
                 </sense>
@@ -14200,7 +14224,7 @@
                 </sense>
             </entry>
             <fw type="custos">Waśń/</fw>
-            <pb n="25"/>
+            <pb n="37 (B6)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Waśń</orth>
@@ -14486,7 +14510,7 @@
                     <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>der Fäuling<pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc> langsam</orth> <!-- TODO: verify langsam: not a noun! -->
+                            <orth>der Fäuling<pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc> langsam</orth>
                         </form>
                     </cit>
                 </sense>
@@ -14792,7 +14816,7 @@
                 </sense>
             </entry>
             <fw type="custos">Len/</fw>
-            <pb n="26"/>
+            <pb n="38 (B6v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Len</orth>
@@ -15398,7 +15422,7 @@
                 </sense>
             </entry>
             <fw type="custos">Słoń/</fw>
-            <pb n="27"/>
+            <pb n="39 (B7)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Słoń</orth>
@@ -15895,7 +15919,7 @@
                     <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>die Decke<pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc> vertäffelte Ober Bühne</orth><!-- TODO: spelling: vertäfelte? kompozitum: Oberbühne? -->
+                            <orth>die Decke<pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc> vertäffelte Ober Bühne</orth>
                         </form>
                     </cit>
                 </sense>
@@ -16001,7 +16025,7 @@
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
                             <orth>die Kneip<pc force="weak" norm="" type="separator">/</pc>
-                            </orth><!-- TODO: redundant / ? -->
+                            </orth>
                         </form>
                     </cit>
                 </sense>
@@ -16020,7 +16044,7 @@
                 </sense>
             </entry>
             <fw type="custos">Czar</fw>
-            <pb n="28"/>
+            <pb n="40 (B7v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Czár</orth>
@@ -16695,7 +16719,7 @@
                 </sense>
             </entry>
             <fw type="custos">Dozor/</fw>
-            <pb n="29"/>
+            <pb n="41 (B8)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Dozor</orth>
@@ -16744,7 +16768,7 @@
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
                             <orth>der Schein<pc force="strong" norm=",">/</pc> die
-                                Zierd</orth><!-- TODO: die Zierde?-->
+                                Zierd</orth>
                         </form>
                     </cit>
                 </sense>
@@ -17301,7 +17325,7 @@
                 </sense>
             </entry>
             <fw type="custos">Tárás</fw>
-            <pb n="30"/>
+            <pb n="42 (B8v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Tárás</orth>
@@ -17802,8 +17826,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>das Elend<pc force="weak" norm="" type="separator">/</pc>
-                            </orth> <!-- TODO: redundant / ? -->
+                            <orth>das Elend</orth>
                         </form>
                     </cit>
                 </sense>
@@ -17940,7 +17963,7 @@
                 </sense>
             </entry>
             <fw type="custos">Szołtys/</fw>
-            <pb n="31"/>
+            <pb n="43 (C1)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Szołtys</orth>
@@ -18533,7 +18556,7 @@
             </entry>
             <fw type="signature">C</fw>
             <fw type="custos">Opszt/</fw>
-            <pb n="32"/>
+            <pb n="44 (C1v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Opát</orth>
@@ -19076,7 +19099,7 @@
                 </sense>
             </entry>
             <fw type="custos">Grzbiet/</fw>
-            <pb n="33"/>
+            <pb n="45 (C2)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Grzbiet</orth>
@@ -19367,7 +19390,7 @@
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
                             <orth>der Flug<pc force="strong" norm=",">/</pc> das
-                                fiegen</orth><!-- TODO: Fliegen? -->
+                                fiegen</orth>
                         </form>
                     </cit>
                 </sense>
@@ -19678,7 +19701,7 @@
             </entry>
             <fw type="signature">C ij</fw>
             <fw type="custos">Kogut/</fw>
-            <pb n="34"/>
+            <pb n="46 (C2v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Kogut</orth>
@@ -20308,7 +20331,7 @@
                 </sense>
             </entry>
             <fw type="custos">Pomort/</fw>
-            <pb n="35"/>
+            <pb n="47 (C3)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Bezkost</orth>
@@ -20933,7 +20956,7 @@
             </entry>
             <fw type="signature">C iij</fw>
             <fw type="custos">Buzgáy/</fw>
-            <pb n="36"/>
+            <pb n="48 (C3v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Bugay; Buhay</orth>
@@ -21488,7 +21511,7 @@
                     <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>der Vetter<pc force="weak" norm=" " type="separator">/</pc> deß Bruder</orth><!-- TODO: verify: der deß Vatters Bruder? -->
+                            <orth>der Vetter<pc force="weak" norm=" " type="separator">/</pc> deß Bruder</orth>
                         </form>
                     </cit>
                 </sense>
@@ -21520,7 +21543,7 @@
                 </sense>
             </entry>
             <fw type="custos">Kij/</fw>
-            <pb n="37"/>
+            <pb n="49 (C4)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Kij</orth>
@@ -22135,7 +22158,7 @@
             </entry>
             <fw type="signature">C jv</fw>
             <fw type="custos">Zántuz/</fw>
-            <pb n="38"/>
+            <pb n="50 (C4v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Zántuz</orth>
@@ -22730,7 +22753,7 @@
                 </sense>
             </entry>
             <fw type="custos">Węglarz</fw>
-            <pb n="39"/>
+            <pb n="51 (C5)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Węglarz</orth>
@@ -23277,7 +23300,7 @@
             </entry>
             <fw type="signature">C v</fw>
             <fw type="custos">Moźd-</fw>
-            <pb n="40"/>
+            <pb n="52 (C5v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Moździerz</orth>
@@ -23867,7 +23890,7 @@
                 </sense>
             </entry>
             <fw type="custos">Chleba</fw>
-            <pb n="41"/>
+            <pb n="53 (C6)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Chlebá skibá</orth>
@@ -24409,7 +24432,7 @@
                 </sense>
             </entry>
             <fw type="custos">Káplicá/</fw>
-            <pb n="42"/>
+            <pb n="54 (C6v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Káplicá</orth>
@@ -24910,7 +24933,7 @@
                 </sense>
             </entry>
             <fw type="custos">Hembd</fw>
-            <pb n="43"/>
+            <pb n="55 (C7)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Hembd</orth>
@@ -25452,7 +25475,7 @@
                 </sense>
             </entry>
             <fw type="custos">Práwo-</fw>
-            <pb n="44"/>
+            <pb n="56 (C7v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Práwodawcá</orth>
@@ -25968,7 +25991,7 @@
                 </sense>
             </entry>
             <fw type="custos">Wzgárdá/</fw>
-            <pb n="45"/>
+            <pb n="57 (C8)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Wzgárdá</orth>
@@ -26559,7 +26582,7 @@
                 </sense>
             </entry>
             <fw type="custos">Szynwagá</fw>
-            <pb n="46"/>
+            <pb n="58 (C8v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Szynwaga; Szrotwagá</orth>
@@ -26768,7 +26791,7 @@
                     <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>Burtzeln<pc force="strong" norm="," type="separator">/</pc> bürgelt</orth><!-- TODO: niezrozumiałe -->
+                            <orth>Burtzeln<pc force="strong" norm="," type="separator">/</pc> bürgelt</orth>
                         </form>
                     </cit>
                 </sense>
@@ -27125,7 +27148,7 @@
                 </sense>
             </entry>
             <fw type="custos">Czer-</fw>
-            <pb n="47"/>
+            <pb n="59 (D1)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Czerpacżká</orth>
@@ -27688,7 +27711,7 @@
             </entry>
             <fw type="signature">D</fw>
             <fw type="custos">Słach-</fw>
-            <pb n="48"/>
+            <pb n="60 (D1v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Słachćianká</orth>
@@ -28293,7 +28316,7 @@
                 </sense>
             </entry>
             <fw type="custos">Mieśna</fw>
-            <pb n="49"/>
+            <pb n="61 (D2)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Mięśna játká</orth>
@@ -28827,7 +28850,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="50 Szybecżka sklána we drzwiách/ die Glas scheibe in der Thür"/>
+            <pb n="62 (D2v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Baniecżká</orth>
@@ -29154,7 +29177,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>ein klein Gestühl<pc force="strong" norm="," type="separator" subtype="noun_chain">/</pc> das Gezeh</orth><!--TODO: verify das Gezeh??? brak form w DWBS itd. -->
+                            <orth>ein klein Gestühl<pc force="strong" norm="," type="separator" subtype="noun_chain">/</pc> das Gezeh</orth>
                         </form>
                     </cit>
                 </sense>
@@ -29327,7 +29350,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="1"/>
+            <pb n="63 (D3)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Formierká</orth>
@@ -29847,7 +29870,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="2"/>
+            <pb n="64 (D3v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Mniszká</orth>
@@ -30418,7 +30441,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="3"/>
+            <pb n="65 (D4)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Przymowká</orth>
@@ -30977,7 +31000,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="4"/>
+            <pb n="66 (D4v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Piiątyká</orth>
@@ -31555,7 +31578,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="5"/>
+            <pb n="67 (D5)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Rymá</orth>
@@ -32122,7 +32145,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="6"/>
+            <pb n="68 (D5v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Gliná</orth>
@@ -32704,7 +32727,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="7"/>
+            <pb n="69 (D6)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Fortuná</orth>
@@ -32991,7 +33014,7 @@
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
                             <orth>Hauptgutt<pc force="strong" norm=",">/</pc> Haupt
-                                Summ</orth><!-- TODO: Hauptsumme?-->
+                                Summ</orth>
                         </form>
                     </cit>
                 </sense>
@@ -33187,7 +33210,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="8"/>
+            <pb n="70 (D6v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>man versöhnet</orth>
@@ -33673,7 +33696,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="9"/>
+            <pb n="71 (D7)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Kupá</orth>
@@ -34147,7 +34170,7 @@
                         </cit>
                 </sense>
             </entry>
-            <pb n="10"/>
+            <pb n="72 (D7v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Skorá</orth>
@@ -34681,7 +34704,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="11"/>
+            <pb n="73 (D8)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Pozłotá</orth>
@@ -35219,7 +35242,7 @@
                         <corr>Erneuerung</corr>
                     </choice>
                 </fw>
-            <pb n="12"/>
+            <pb n="74 (D8v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Podkowá</orth>
@@ -35723,7 +35746,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="13"/>
+            <pb n="75 (E1)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Białość</orth>
@@ -35809,7 +35832,7 @@
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
                             <orth>die Standhafftigkeit<pc force="strong" norm=",">/</pc>
-                                die Beständig- keit</orth><!-- TODO: die Beständigkeit???-->
+                                die Beständigkeit</orth>
                         </form>
                     </cit>
                 </sense>
@@ -35970,8 +35993,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>die Zucht<pc force="weak" norm="" type="separator">/</pc>
-                            </orth><!-- TODO: redundant / ? -->
+                            <orth>die Zucht</orth>
                         </form>
                     </cit>
                 </sense>
@@ -36186,7 +36208,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="14"/>
+            <pb n="76 (E1v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Zwycżayność</orth>
@@ -36577,7 +36599,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="15"/>
+            <pb n="77 (E2)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Wolność</orth>
@@ -36979,7 +37001,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="16"/>
+            <pb n="78 (E2v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Prętkomowność</orth>
@@ -37440,7 +37462,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="17"/>
+            <pb n="79 (E3)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Sękowátość</orth>
@@ -37866,7 +37888,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="18"/>
+            <pb n="80 (E3v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Niegotowość</orth>
@@ -38296,7 +38318,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="19"/>
+            <pb n="81 (E4)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Ucżaszcżánie</orth>
@@ -38734,7 +38756,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="20"/>
+            <pb n="82 (E4v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Rozpędzánie</orth>
@@ -39159,8 +39181,8 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>das machen<pc force="weak" norm="" type="separator">/</pc>
-                            </orth><!-- TODO: redundnat /?-->
+                            <orth>das machen<pc force="weak" norm="" type="separator">/</pc>thun
+                            </orth>
                         </form>
                     </cit>
                 </sense>
@@ -39201,7 +39223,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="21"/>
+            <pb n="83 (E5)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Wołánie</orth>
@@ -39689,7 +39711,7 @@
                 </sense>
             </entry>
             <fw type="custos">Przepásánie/ das gürten</fw>
-            <pb n="22"/>
+            <pb n="84 (E5v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Przypisánie</orth>
@@ -40159,7 +40181,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="23"/>
+            <pb n="85 (E6)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Dźiwowánie</orth>
@@ -40562,7 +40584,7 @@
                 </sense>
             </entry>
             <fw type="custos">Pokázowánie/ das zeigen</fw>
-            <pb n="24"/>
+            <pb n="86 (E6v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Polewánie</orth>
@@ -40954,7 +40976,7 @@
                 </sense>
             </entry>
             <fw type="custos">Spiewánie/ das singen</fw>
-            <pb n="25"/>
+            <pb n="87 (E7)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Spisowánie</orth>
@@ -41315,8 +41337,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>das besitzen der Gütter<pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc> auff- gerichtliches
-                                Zuerkäntnüß</orth><!-- TODO: auffgerichtliches??? -->
+                            <orth>das besitzen der Gütter<pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc> auffgerichtliches Zuerkäntnüß</orth>
                         </form>
                     </cit>
                 </sense>
@@ -41358,7 +41379,7 @@
                 </sense>
             </entry>
             <fw type="custos">Wyskákowánie od weselá/ das frolocken</fw>
-            <pb n="26"/>
+            <pb n="88 (E7v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Wyszywánie</orth>
@@ -41823,7 +41844,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="27"/>
+            <pb n="89 (E8)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Zmrużánie ocżu</orth>
@@ -41989,7 +42010,7 @@
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
                             <orth>das drehen<pc force="weak" norm="" type="separator">/</pc>
-                            </orth><!--TODO: redundant? -->
+                            </orth>
                         </form>
                     </cit>
                 </sense>
@@ -42270,7 +42291,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="28"/>
+            <pb n="90 (E8v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Lecżęnie</orth>
@@ -42755,7 +42776,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="29"/>
+            <pb n="91 (F1)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Národzęnie</orth>
@@ -43260,7 +43281,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="30"/>
+            <pb n="92 (F1v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Chronięnie śię</orth>
@@ -43587,7 +43608,7 @@
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
                             <orth>die Verstummung<pc force="strong" norm=",">/</pc> das
-                                ver- stummen</orth><!-- TODO: verstummen? -->
+                                verstummen</orth>
                         </form>
                     </cit>
                 </sense>
@@ -43689,7 +43710,7 @@
                 </sense>
             </entry>
             <fw type="custos">Wytchnięnie/ das verblasen</fw>
-            <pb n="31"/>
+            <pb n="93 (F2)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Wywynięnie cżłonká</orth>
@@ -44106,7 +44127,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="32"/>
+            <pb n="94 (F2v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Naśięnie</orth>
@@ -44572,7 +44593,7 @@
                         </cit>
                 </sense>
             </entry>
-            <pb n="33"/>
+            <pb n="95 (F3)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Tráwięnie</orth>
@@ -45042,7 +45063,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="34"/>
+            <pb n="96 (F3v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Paźdźierze</orth>
@@ -45378,7 +45399,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>Lab<pc force="strong" norm=",">/</pc> Käse-Lab</orth><!-- TODO: compositum Käselab? -->
+                            <orth>Lab<pc force="strong" norm=",">/</pc> Käse-Lab</orth>
                         </form>
                     </cit>
                 </sense>
@@ -45562,7 +45583,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="35"/>
+            <pb n="97 (F4)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Ciáło</orth>
@@ -46065,7 +46086,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="36"/>
+            <pb n="98 (F4v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Surmáctwo</orth>
@@ -46471,7 +46492,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="37"/>
+            <pb n="99 (F5)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Kupiectwo</orth>
@@ -46845,7 +46866,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="38"/>
+            <pb n="100 (F5v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Rycerstwo</orth>
@@ -47306,7 +47327,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="39"/>
+            <pb n="101 (F6)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Kśiężyć</orth>
@@ -47739,7 +47760,7 @@
             </entry>
             <entry type="main">
                 <form type="lemma">
-                    <orth>Sumki<pc force="strong" norm=",">/</pc> zákwy</orth><!-- TODO: zweryfikować: w ernsesti.xml raczej błędny lemmat: sumki, przyjąłem: sumki, zakwy-->
+                    <orth>Sumki<pc force="strong" norm=",">/</pc> zákwy</orth>
                 </form>
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
@@ -47840,7 +47861,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="40"/>
+            <pb n="102 (F6v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Skwiercżek</orth>
@@ -48404,7 +48425,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="41"/>
+            <pb n="103 (F7)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Sżcżepnik</orth>
@@ -48954,7 +48975,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="42"/>
+            <pb n="104 (F7v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Kraycży</orth>
@@ -49056,12 +49077,11 @@
                 <form type="lemma">
                     <orth>Wągry/ węgry</orth>
                 </form>
+                <pc>/</pc>
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>
-                                <pc force="strong" norm=",">/</pc><!-- TODO: ver. czy stoi / -->
-                                    Sonnensprossen<pc force="strong" norm=",">/</pc> Finnen</orth>
+                            <orth>Sonnensprossen<pc force="strong" norm=",">/</pc> Finnen</orth>
                         </form>
                     </cit>
                 </sense>
@@ -49453,7 +49473,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="43"/>
+            <pb n="105 (F8)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Winnicá</orth>
@@ -49966,7 +49986,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="44"/>
+            <pb n="106 (F8v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Iedłá</orth>
@@ -50546,7 +50566,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="45"/>
+            <pb n="107 (G1)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Przerwá</orth>
@@ -51047,7 +51067,7 @@
                         </cit>
                 </sense>
             </entry>
-            <pb n="46"/>
+            <pb n="108 (G1v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Niemęskość</orth>
@@ -51475,26 +51495,13 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>die Lebligkeit<pc force="weak" norm="" type="separator">/</pc>
-                                <supplied>die</supplied>
-                            </orth><!-- TODO: redundant?-->
+                            <orth>die Lebligkeit<pc force="weak" norm="" type="separator">/</pc>Blütt<pc force="weak" norm="" type="separator">/</pc>Krafft
+                            </orth>
                         </form>
                     </cit>
                 </sense>
             </entry>
-            <entry type="main">
-                <form type="lemma">
-                    <orth>Blütt</orth>
-                </form>
-                <sense>
-                    <cit type="translationEquivalent" xml:lang="ger">
-                        <form>
-                            <orth>Krafft</orth>
-                        </form>
-                    </cit>
-                </sense>
-            </entry>
-            <pb n="47"/>
+            <pb n="109 (G2)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Trzeźwość</orth>
@@ -52001,7 +52008,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="48"/>
+            <pb n="110 (G2v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Czło</orth>
@@ -52603,7 +52610,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="49"/>
+            <pb n="111 (G3)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Iaki to dźiwák</orth>
@@ -52995,7 +53002,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="50"/>
+            <pb n="112 (G3v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Kábat stároświecki</orth>
@@ -53407,7 +53414,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="1"/>
+            <pb n="113 (G4)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>łáćiński</orth>
@@ -53841,7 +53848,7 @@
             </entry>
             <entry type="main">
                 <form type="lemma">
-                    <orth>Bielucżki<pc norm=",">/</pc>bieláwy</orth><!-- TODO: tu i w ernesti.xml błędny lemat -->
+                    <orth>Bielucżki<pc norm=",">/</pc>bieláwy</orth>
                 </form>
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
@@ -53877,7 +53884,7 @@
             </entry>
             <fw type="signature">G jv</fw>
             <fw type="custos">Boćiani</fw>
-            <pb n="2"/>
+            <pb n="114 (G4v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Boćiani nos</orth>
@@ -54342,7 +54349,7 @@
                 </sense>
             </entry>
             <fw type="custos">Nietr-</fw>
-            <pb n="3"/>
+            <pb n="115 (G5)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Nietrwály</orth>
@@ -54559,7 +54566,7 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>Prächtig<pc force="strong" norm=",">/</pc>Großmütig tapffer</orth><!-- TODO: verify if not Großmütig / tapffer  -->
+                            <orth>Prächtig<pc force="strong" norm=",">/</pc>Großmütig<pc force="strong" norm=",">/</pc>tapffer</orth>
                         </form>
                     </cit>
                 </sense>
@@ -54843,7 +54850,7 @@
             </entry>
             <fw type="signature">G v</fw>
             <fw type="custos">Przelę-</fw>
-            <pb n="4"/>
+            <pb n="116 (G5v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Przelękły</orth>
@@ -55357,7 +55364,7 @@
                 </sense>
             </entry>
             <fw type="custos">Smołány/</fw>
-            <pb n="5"/>
+            <pb n="117 (G6)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Smołány</orth>
@@ -55474,7 +55481,7 @@
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
                             <orth>Ununterschiedlich<pc force="strong" norm="," type="separator">/</pc> was nicht un
-                                terschieden ist</orth><!-- TODO: verify unterschieden -->
+                                terschieden ist</orth>
                         </form>
                     </cit>
                 </sense>
@@ -55499,7 +55506,7 @@
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
                             <orth>Untenangekerbet<pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc>
-                                unterschnitten</orth><!-- TODO: verify: Unterangekerbet??? -->
+                                unterschnitten</orth>
                         </form>
                     </cit>
                 </sense>
@@ -55817,7 +55824,7 @@
                 </sense>
             </entry>
             <fw type="custos">Fárbo-</fw>
-            <pb n="6"/>
+            <pb n="118 (G6v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Fárbowány</orth>
@@ -56287,7 +56294,7 @@
                 </sense>
             </entry>
             <fw type="custos">z Falszo-</fw>
-            <pb n="7"/>
+            <pb n="119 (G7)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>z Fałszowány</orth>
@@ -56785,7 +56792,7 @@
                 </sense>
             </entry>
             <fw type="custos">Dymal-</fw>
-            <pb n="8"/>
+            <pb n="120 (G7v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Dymalny</orth>
@@ -57234,7 +57241,7 @@
                 </sense>
             </entry>
             <fw type="custos">Stáro</fw>
-            <pb n="9"/>
+            <pb n="121 (G8)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Stáro dawny</orth>
@@ -57689,7 +57696,7 @@
                 </sense>
             </entry>
             <fw type="custos">Tutecż-</fw>
-            <pb n="10"/>
+            <pb n="122 (G8v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Tutecżny</orth>
@@ -58130,7 +58137,7 @@
                 </sense>
             </entry>
             <fw type="custos">Wzajemny/</fw>
-            <pb n="11"/>
+            <pb n="123 (H1)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Wzájemny</orth>
@@ -58602,7 +58609,7 @@
             </entry>
             <fw type="signature">H</fw>
             <fw type="custos">Uciesżny/</fw>
-            <pb n="12"/>
+            <pb n="124 (H1v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Ućiesżny</orth>
@@ -59120,7 +59127,7 @@
                 </sense>
             </entry>
             <fw type="custos">Iedno-</fw>
-            <pb n="13"/>
+            <pb n="125 (H2)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Iednoistny</orth>
@@ -59609,7 +59616,7 @@
             </entry>
             <fw type="signature">H ij</fw>
             <fw type="custos">Nieprzy-</fw>
-            <pb n="14"/>
+            <pb n="126 (H2v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Nieprzyrodzony</orth>
@@ -60023,7 +60030,7 @@
                 </sense>
             </entry>
             <fw type="custos">Okra-</fw>
-            <pb n="15"/>
+            <pb n="127 (H3)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Okraszony</orth>
@@ -60485,7 +60492,7 @@
             </entry>
             <fw type="signature">H iij</fw>
             <fw type="custos">Ulubio-</fw>
-            <pb n="16"/>
+            <pb n="128 (H3v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Ulubiony</orth>
@@ -60967,7 +60974,7 @@
                 </sense>
             </entry>
             <fw type="custos">Ponocny/</fw>
-            <pb n="17"/>
+            <pb n="129 (H4)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Ponocny</orth>
@@ -61383,7 +61390,7 @@
             </entry>
             <fw type="signature">H jv</fw>
             <fw type="custos">Kąkolny/</fw>
-            <pb n="18"/>
+            <pb n="130 (H4v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Kąkolny</orth>
@@ -61825,7 +61832,7 @@
                 </sense>
             </entry>
             <fw type="custos">Błotny/</fw>
-            <pb n="19"/>
+            <pb n="131 (H5)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Błotny</orth>
@@ -62266,7 +62273,7 @@
             </entry>
             <fw type="signature">H v</fw>
             <fw type="custos">Umo-</fw>
-            <pb n="20"/>
+            <pb n="132 (H5v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Umowny</orth>
@@ -62821,7 +62828,7 @@
                 </sense>
             </entry>
             <fw type="custos">Szumny/</fw>
-            <pb n="21"/>
+            <pb n="133 (H6)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Szumny</orth>
@@ -63269,7 +63276,7 @@
                 </sense>
             </entry>
             <fw type="custos">Prze-</fw>
-            <pb n="22"/>
+            <pb n="134 (H6v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Przemyślny</orth>
@@ -63716,7 +63723,7 @@
                 </sense>
             </entry>
             <fw type="custos">Grubo-</fw>
-            <pb n="23"/>
+            <pb n="135 (H7)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Grubowłosy</orth>
@@ -64169,7 +64176,7 @@
                 </sense>
             </entry>
             <fw type="custos">Podłu-</fw>
-            <pb n="24"/>
+            <pb n="136 (H7v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Podługowáty</orth>
@@ -64655,7 +64662,7 @@
                 </sense>
             </entry>
             <fw type="custos">Głá-</fw>
-            <pb n="25"/>
+            <pb n="137 (H8)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Głąbisty</orth>
@@ -64944,7 +64951,7 @@
                     </cit>
                 </sense>
             </entry>
-            <entry> <!-- TODO: brakujące hasło tu i w ernesti.xml -->
+            <entry>
                 <form type="lemma">
                     <orth>łonisty</orth>
                 </form>
@@ -65185,7 +65192,7 @@
                 </sense>
             </entry>
             <fw type="custos">Droż-</fw>
-            <pb n="26"/>
+            <pb n="138 (H8v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Drożdźisty</orth>
@@ -65685,7 +65692,7 @@
                 </sense>
             </entry>
             <fw type="custos">Wryty/</fw>
-            <pb n="27"/>
+            <pb n="139 (I1)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Wryty</orth>
@@ -66209,7 +66216,7 @@
             </entry>
             <fw type="signature">I</fw>
             <fw type="custos">Oso-</fw>
-            <pb n="28"/>
+            <pb n="140 (I1v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Osobliwy</orth>
@@ -66714,7 +66721,7 @@
                 </sense>
             </entry>
             <fw type="custos">Cyno-</fw>
-            <pb n="29"/>
+            <pb n="141 (I2)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Cynobrowy inkaust</orth>
@@ -67091,7 +67098,7 @@
             </entry>
             <fw type="signature">I ij</fw>
             <fw type="custos">Balsá-</fw>
-            <pb n="30"/>
+            <pb n="142 (I2v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Balsámowy olejek</orth>
@@ -67434,7 +67441,7 @@
                 </sense>
             </entry>
             <fw type="custos">Fun-</fw>
-            <pb n="31"/>
+            <pb n="143 (I3)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Funtowa kulá</orth>
@@ -67611,12 +67618,11 @@
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
                             <orth>Ehrenverletzlich<supplied>
-                                    <pc norm=","/>/</supplied> schändlich</orth><!-- TODO: supplied missing / -->
+                                    <pc norm=","/>/</supplied> schändlich</orth>
                         </form>
                     </cit>
                 </sense>
             </entry>
-            <!-- TODO: poniższy ustęp wprowadza listę haseł, błędnie wciągnięty do hasła. Ująłem w <p>. -->
             <p>
             Auff die selbst-und beyständigen
             Wörter die nach ihren Geschlechten geordnet sind/ folgen nun die/ so
@@ -67687,7 +67693,7 @@
             </entry>
             <fw type="signature">I iij</fw>
             <fw type="custos">Cżęsto-</fw>
-            <pb n="32"/>
+            <pb n="144 (I3v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Cżęstokroć to ucżynił (ucżyniłá;)</orth>
@@ -67743,8 +67749,8 @@
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
-                            <orth>über das hat er (sie<pc force="strong" norm="," type="separator">/</pc> mir auch das
-                                gesaget</orth><!-- TODO: / should be replaced with closing parenthese ) ? -->
+                            <orth>über das hat er (sie) mir auch das
+                                gesaget</orth>
                         </form>
                     </cit>
                 </sense>
@@ -67848,7 +67854,7 @@
             </entry>
             <entry>
                 <form type="lemma">
-                    <orth>áOdkądże mam strzelać</orth> <!-- TODO: verify lemma: Odkądże mam strzelać? -->
+                    <orth>áOdkądże mam strzelać</orth>
                 </form>
                 <pc>/</pc>
                 <sense>
@@ -67913,7 +67919,7 @@
                     </cit>
                 </sense>
             </entry>
-            <pb n="33"/>
+            <pb n="145 (I4)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>á Zkądeśćie z temi rybámi; rákámi</orth>
@@ -67946,7 +67952,7 @@
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
                             <orth>von wannen ich mit dem Flachs Hanff
-                                bin</orth><!-- TODO: no pc between Flachs Hanff? -->
+                                bin</orth>
                         </form>
                     </cit>
                 </sense>
@@ -68101,7 +68107,7 @@
             </entry>
             <fw type="signature">I jv</fw>
             <fw type="custos">Iák</fw>
-            <pb n="34"/>
+            <pb n="146 (I4v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Iák ćię uniego (uniey) obacżę</orth>
@@ -68281,7 +68287,7 @@
                     </cit>
                 </sense>
             </entry>
-            <entry type="main"> <!-- entry missing in ernesti.xml -->
+            <entry type="main">
                 <form type="lemma">
                     <orth>á ja ná wznák leżeć nie mogę</orth>
                     </form>
@@ -68330,7 +68336,7 @@
                 </sense>
             </entry>
             <fw type="custos">mir</fw>
-            <pb n="35"/>
+            <pb n="147 (I5)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Ieśli Urtámi rzucác nie żądam</orth>
@@ -68388,8 +68394,8 @@
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
                             <orth>und unterweilen ist er (sie) auch böse (ungehalten
-                                auff mich<pc force="strong" norm="">/</pc>
-                            </orth><!-- TODO: should / be replaced by closing parenthese ) ? -->
+                                auff mich
+                            </orth>
                         </form>
                     </cit>
                 </sense>
@@ -68487,10 +68493,7 @@
                     <cit type="translationEquivalent" xml:lang="ger">
                         <form>
                             <orth>er (sie) hat allezeit nach dem Herren und nicht nach
-                                der Frauen gefraget
-                                <!-- TODO: verify: od / do Iungfer: tu i w ernesti.xml powielone zdanie z nast. hasła - wyrzucić -->
-                                <pc force="strong" norm="," type="separator" subtype="adj_chain">/</pc> un<supplied reason="editorial" resp="#ed1">d</supplied> ietzund fraget er (sie) nach der Iüngsten
-                                Iungfer</orth>
+                                der Frauen gefraget</orth>
                         </form>
                     </cit>
                 </sense>
@@ -68522,7 +68525,7 @@
             </entry>
             <fw type="signature">I v</fw>
             <fw type="custos">cżar/</fw>
-            <pb n="36"/>
+            <pb n="148 (I5v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>cżás</orth>
@@ -68575,7 +68578,7 @@
             </entry>
             <entry type="main">
                 <form type="lemma">
-                    <orth>áż do wieecżorá cżekałem z towarem</orth> <!-- TODO: tu i w ernesti.xml błędny lemat -->
+                    <orth>áż do wieecżorá cżekałem z towarem</orth>
                 </form>
                 <sense>
                     <cit type="translationEquivalent" xml:lang="ger">
@@ -68736,7 +68739,7 @@
                 </sense>
             </entry>
             <fw type="custos">Iáko-</fw>
-            <pb n="37"/>
+            <pb n="149 (I6)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Iákokolwiek</orth>
@@ -69151,7 +69154,7 @@
                 </sense>
             </entry>
             <fw type="custos">Chybá-</fw>
-            <pb n="38"/>
+            <pb n="150 (I6v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Chybáby go nie było domá</orth>
@@ -69590,7 +69593,7 @@
                 </sense>
             </entry>
             <fw type="custos">Miłe</fw>
-            <pb n="39"/>
+            <pb n="151 (I7)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Mile waszeći kázał (kázáłá pozdrowić</orth>
@@ -70037,7 +70040,7 @@
                 </sense>
             </entry>
             <fw type="custos">Niebe-</fw>
-            <pb n="40"/>
+            <pb n="152 (I7v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Niebespiecżnie</orth>
@@ -70524,7 +70527,7 @@
                 </sense>
             </entry>
             <fw type="custos">Sławic</fw>
-            <pb n="41"/>
+            <pb n="153 (I8)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Stawic śię mężnie</orth>
@@ -71070,7 +71073,7 @@
                 </sense>
             </entry>
             <fw type="custos">Żarto-</fw>
-            <pb n="42"/>
+            <pb n="154 (I8v)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Żártownie</orth>
@@ -71543,7 +71546,7 @@
                 </sense>
             </entry>
             <fw type="custos">Płacż</fw>
-            <pb n="43"/>
+            <pb n="155 (J1)"/>
             <entry type="main">
                 <form type="lemma">
                     <orth>Płácżliwie</orth>
@@ -71968,1135 +71971,1332 @@
             <div type="expressions">
                 <entry type="expression">
                   <form>
-                        <quote>Bo mię bił/ (biłá)</quote>
+                        <orth>Bo mię bił/ (biłá)</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>denn er (sie) schlug mich</quote>
+                      <form>
+                                <orth>denn er (sie) schlug mich</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Bo mie trąćił/ (trąćiłá) łokćiem</quote>
+                        <orth>Bo mie trąćił/ (trąćiłá) łokćiem</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>denn er (sie) hat mich mit dem Ellbogen gestossen</quote>
+                      <form>
+                                <orth>denn er (sie) hat mich mit dem Ellbogen gestossen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <fw type="custos">ábo</fw>
                 <fw type="signature">K</fw>
-                <pb n="44"/>
+                <pb n="156 (J1v)"/>
                 <entry type="expression">
                   <form>
-                        <quote>ábo nie cżujesż</quote>
+                        <orth>ábo nie cżujesż</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>oder hörest du nicht</quote>
+                      <form>
+                                <orth>oder hörest du nicht</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Słábo náćiągnął strony</quote>
+                        <orth>Słábo náćiągnął strony</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>er hat die Seiten schlaff aufgezogen</quote>
+                      <form>
+                                <orth>er hat die Seiten schlaff aufgezogen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Słábo mowi</quote>
+                        <orth>Słábo mowi</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>er redet schwach/ (gelinde)</quote>
+                      <form>
+                                <orth>er redet schwach/ (gelinde)</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Dla cżegożeś śię nie pospiesżał/ (pospieszáłá)</quote>
+                        <orth>Dla cżegożeś śię nie pospiesżał/ (pospieszáłá)</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>warumb hast du dich nicht gefödert (gereget)</quote>
+                      <form>
+                                <orth>warumb hast du dich nicht gefödert (gereget)</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Dla tegoć mowię</quote>
+                        <orth>Dla tegoć mowię</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>darumb sage ichs dir</quote>
+                      <form>
+                                <orth>darumb sage ichs dir</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Iákoć miłe zdrowie własne</quote>
+                        <orth>Iákoć miłe zdrowie własne</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>so lieb dir die eigene Gesunhheit (Wolfahrt) ist</quote>
+                      <form>
+                                <orth>so lieb dir die eigene Gesunhheit (Wolfahrt) ist</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>á cżemuż mi nie ma miłe bydź powodzenie jego</quote>
+                        <orth>á cżemuż mi nie ma miłe bydź powodzenie jego</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>wie soll mir sein Wolergehen nicht lieb seyn</quote>
+                      <form>
+                                <orth>wie soll mir sein Wolergehen nicht lieb seyn</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>á za nie wszysłko jednako</quote>
+                        <orth>á za nie wszysłko jednako</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>ist es nicht alles einerlen</quote>
+                      <form>
+                                <orth>ist es nicht alles einerlen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>ládájáko wszystko pocżyná</quote>
+                        <orth>ládájáko wszystko pocżyná</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>er fänget alles ohne Fleiß (oben hin) an</quote>
+                      <form>
+                                <orth>er fänget alles ohne Fleiß (oben hin) an</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Owáko byłá ustrojona</quote>
+                        <orth>Owáko byłá ustrojona</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>sie war auff solche Art geputzet</quote>
+                      <form>
+                                <orth>sie war auff solche Art geputzet</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Trojáko śię waszeći nágrodźi</quote>
+                        <orth>Trojáko śię waszeći nágrodźi</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>/ es wird ihm(ihr) dreyfach eingebracht (ersetzet) werden</quote>
+                      <form>
+                                <orth>/ es wird ihm(ihr) dreyfach eingebracht (ersetzet) werden</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Dwojáko udáją tęrzecż/</quote>
+                        <orth>Dwojáko udáją tęrzecż/</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>sie geben die Sache auf zweyerley art auß</quote>
+                      <form>
+                                <orth>sie geben die Sache auf zweyerley art auß</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Wieloráko mię nápominał/ (nápomináłá)/</quote>
+                        <orth>Wieloráko mię nápominał/ (nápomináłá)/</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>er (sie) hat mich vielfältig erinnert</quote>
+                      <form>
+                                <orth>er (sie) hat mich vielfältig erinnert</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Gładko heblował tarćicę</quote>
+                        <orth>Gładko heblował tarćicę</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>er hat das Brett glatt gehobelt</quote>
+                      <form>
+                                <orth>er hat das Brett glatt gehobelt</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Rzadko unas bywa</quote>
+                        <orth>Rzadko unas bywa</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>er (sie) pfleget seltenbey uns zu seyn</quote>
+                      <form>
+                                <orth>er (sie) pfleget seltenbey uns zu seyn</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Blisko mnie śiedźiał/(śiedźiáłá)</quote>
+                        <orth>Blisko mnie śiedźiał/(śiedźiáłá)</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>er (sie) hat nahe an mir gesessen</quote>
+                      <form>
+                                <orth>er (sie) hat nahe an mir gesessen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Oto blisko maćie karcżmę</quote>
+                        <orth>Oto blisko maćie karcżmę</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>da habet ihr einen Kretschem in der Nähe</quote>
+                      <form>
+                                <orth>da habet ihr einen Kretschem in der Nähe</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Ślisko chodźić ná ulicy</quote>
+                        <orth>Ślisko chodźić ná ulicy</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>es ist auff der Gasse glatt zu gehen</quote>
+                      <form>
+                                <orth>es ist auff der Gasse glatt zu gehen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <fw type="custos">Ná</fw>
-                <pb n="45"/>
+                <pb n="157 (J2)"/>
                 <entry type="expression">
                   <form>
-                        <quote>Ná ledźie nie názbyt ślisko</quote>
+                        <orth>Ná ledźie nie názbyt ślisko</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>auff dem Eise ist es nicht allzu glatt</quote>
+                      <form>
+                                <orth>auff dem Eise ist es nicht allzu glatt</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>á Głębokoż też tu</quote>
+                        <orth>á Głębokoż też tu</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>ist es auch tieff hie</quote>
+                      <form>
+                                <orth>ist es auch tieff hie</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Tu nie może głęboko bydź</quote>
+                        <orth>Tu nie może głęboko bydź</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>hier kan es nicht tieff seyn</quote>
-                    </cit>
-                  </sense>
-                </entry>
-                
-                <entry type="expression">
-                  <form>
-                        <quote>á ják że szeroko leży/ wie</quote>
-                    </form>
-                  <pc>/</pc>
-                  <sense>
-                    <cit type="translationEquivalent" xml:lang="de">
-                      <quote>breit lieget es</quote>
+                      <form>
+                                <orth>hier kan es nicht tieff seyn</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 
                 <entry type="expression">
                   <form>
-                        <quote>To też szeroko dosyć</quote>
+                        <orth>á ják że szeroko leży/ wie</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>das ist auch breit genung</quote>
+                      <form>
+                                <orth>breit lieget es</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 
                 <entry type="expression">
                   <form>
-                        <quote>Wysoko śiedźi</quote>
+                        <orth>To też szeroko dosyć</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>er sitzet hoch</quote>
+                      <form>
+                                <orth>das ist auch breit genung</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 
                 <entry type="expression">
                   <form>
-                        <quote>Ia ták wysoko ćiskáć mie mogę</quote>
+                        <orth>Wysoko śiedźi</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>ich kan so hoch nicht werffen</quote>
+                      <form>
+                                <orth>er sitzet hoch</orth>
+                            </form>
+                    </cit>
+                  </sense>
+                </entry>
+                
+                <entry type="expression">
+                  <form>
+                        <orth>Ia ták wysoko ćiskáć mie mogę</orth>
+                    </form>
+                  <pc>/</pc>
+                  <sense>
+                    <cit type="translationEquivalent" xml:lang="de">
+                      <form>
+                                <orth>ich kan so hoch nicht werffen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Máło mi wászeć dájesz</quote>
+                        <orth>Máło mi wászeć dájesz</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>er (sie) giebet mir wenig</quote>
+                      <form>
+                                <orth>er (sie) giebet mir wenig</orth>
+                            </form>
                     </cit>
                   </sense>
                  </entry>
                 <entry type="expression">
                   <form>
-                        <quote>á zać nie dáło dźiećię</quote>
+                        <orth>á zać nie dáło dźiećię</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>hat dir das Kind nicht gegeben</quote>
+                      <form>
+                                <orth>hat dir das Kind nicht gegeben</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Około pisániá śię zábáwiam</quote>
+                        <orth>Około pisániá śię zábáwiam</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>ich verweile mich mit schreiben</quote>
+                      <form>
+                                <orth>ich verweile mich mit schreiben</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Około stołá chodźi</quote>
+                        <orth>Około stołá chodźi</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>er gehet umb den Tisch herumb</quote>
+                      <form>
+                                <orth>er gehet umb den Tisch herumb</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Wkoło śię obráca</quote>
+                        <orth>Wkoło śię obráca</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>es drehet sich rund herumb</quote>
+                      <form>
+                                <orth>es drehet sich rund herumb</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Wesoło pátrzy wocży ludźiom</quote>
+                        <orth>Wesoło pátrzy wocży ludźiom</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>er siehet freudig den Leuten in die Augen</quote>
+                      <form>
+                                <orth>er siehet freudig den Leuten in die Augen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Wesoło wyszedł z Tárásu</quote>
+                        <orth>Wesoło wyszedł z Tárásu</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>er ist lustig (freudig) auß dem Stock heraus gegangen</quote>
+                      <form>
+                                <orth>er ist lustig (freudig) auß dem Stock heraus gegangen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Bogáto udárował pannę młodą</quote>
+                        <orth>Bogáto udárował pannę młodą</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote> er hat die Iungfrau Braut reichlich begabet</quote>
+                      <form>
+                                <orth> er hat die Iungfrau Braut reichlich begabet</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Nie bárzoć ją też bogáją udá rował</quote>
+                        <orth>Nie bárzoć ją też bogáją udá rował</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>er hat sie auch nicht sehr reichlich beschenckt</quote>
+                      <form>
+                                <orth>er hat sie auch nicht sehr reichlich beschenckt</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Końcżáto ukuł goźdźie</quote>
+                        <orth>Końcżáto ukuł goźdźie</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>er hat die Nägel spitzig geschmiedet</quote>
+                      <form>
+                                <orth>er hat die Nägel spitzig geschmiedet</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Niechay koncżato tocży oszczep</quote>
+                        <orth>Niechay koncżato tocży oszczep</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>laß ihn den Spieß spitzig schleiffen</quote>
+                      <form>
+                                <orth>laß ihn den Spieß spitzig schleiffen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Końcżáto dosyć nágotował</quote>
+                        <orth>Końcżáto dosyć nágotował</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>er hat es spitzig genung zubereitet (angerichte</quote>
+                      <form>
+                                <orth>er hat es spitzig genung zubereitet (angerichte</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Cżęsto śię to przytráfia</quote>
+                        <orth>Cżęsto śię to przytráfia</orth>
                     </form>
                   <pc>/</pc>
                   <fw type="custos">Cżęsto</fw>
                   <fw type="signature">K ij</fw>
-                  <pb n="0045"/>
+                  <pb n="158 (J2v)"/>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote/>
+                      <form>
+                                <orth/>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Cżęstom otym <choice>
+                        <orth>Cżęstom otym <choice>
                                 <sic>styszał</sic>
                                 <corr>słyszał</corr>
-                            </choice>(słyszáłá)</quote>
+                            </choice>(słyszáłá)</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>ich habe offt darvon gehöret</quote>
+                      <form>
+                                <orth>ich habe offt darvon gehöret</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Gęsto uwárzyłá te jágły</quote>
+                        <orth>Gęsto uwárzyłá te jágły</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>sie hat den Hirsen dicke gekocht</quote>
+                      <form>
+                                <orth>sie hat den Hirsen dicke gekocht</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Nietrzebáć więcey wárzyć</quote>
+                        <orth>Nietrzebáć więcey wárzyć</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>du darffst nicht mehr kochen</quote>
+                      <form>
+                                <orth>du darffst nicht mehr kochen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Iágieł</quote>
+                        <orth>Iágieł</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>den Hirsen</quote>
+                      <form>
+                                <orth>den Hirsen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Ták gęsto </quote>
+                        <orth>Ták gęsto </orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>so dick</quote>
+                      <form>
+                                <orth>so dick</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Iużem ją ták cżęsto y gęsto nápomináłá</quote>
+                        <orth>Iużem ją ták cżęsto y gęsto nápomináłá</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>ich habe sie schon offt und vielfältig erinnert</quote>
+                      <form>
+                                <orth>ich habe sie schon offt und vielfältig erinnert</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Cżekay tu</quote>
+                        <orth>Cżekay tu</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>warte hier</quote>
+                      <form>
+                                <orth>warte hier</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Owo jedźie</quote>
+                        <orth>Owo jedźie</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>siehe da kommet er (sie)</quote>
+                      <form>
+                                <orth>siehe da kommet er (sie)</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Owośći przyszedł (przyszłá)</quote>
+                        <orth>Owośći przyszedł (przyszłá)</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>sieheda ist er (sie) gekommen</quote>
+                      <form>
+                                <orth>sieheda ist er (sie) gekommen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>á byłoż wszystko gotowo</quote>
+                        <orth>á byłoż wszystko gotowo</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>ist es alles <choice>
-                                    <sic>ferrig</sic>
-                                    <corr>fertig</corr>
-                                </choice> gewesen</quote>
+                      <form>
+                                <orth>ist es alles  gewesen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Iakożby nie miáło gotowo bydź </quote>
+                        <orth>Iakożby nie miáło gotowo bydź </orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>wie solte es nicht fertig seyn</quote>
+                      <form>
+                                <orth>wie solte es nicht fertig seyn</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Podobno gotowo</quote>
+                        <orth>Podobno gotowo</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>vielleicht fertig (bereit)</quote>
+                      <form>
+                                <orth>vielleicht fertig (bereit)</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Nie bedzieśći iadł(jadła) surowu</quote>
+                        <orth>Nie bedzieśći iadł(jadła) surowu</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>du wirst es wol nicht rohe essen</quote>
+                      <form>
+                                <orth>du wirst es wol nicht rohe essen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>á ktożby chćiał surowo jeść</quote>
+                        <orth>á ktożby chćiał surowo jeść</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>wer wolte rohe essen</quote>
+                      <form>
+                                <orth>wer wolte rohe essen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>á wszystkoć tu nowo</quote>
+                        <orth>á wszystkoć tu nowo</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>ist doch alles neu hier</quote>
+                      <form>
+                                <orth>ist doch alles neu hier</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Muśi/ też wszystko nowo bydź</quote>
+                        <orth>Muśi/ też wszystko nowo bydź</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>es muß auch alles neu seyn</quote>
+                      <form>
+                                <orth>es muß auch alles neu seyn</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Kiedyby też tylko żdrowo było</quote>
+                        <orth>Kiedyby też tylko żdrowo było</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>wenn es auch nur gesund were</quote>
+                      <form>
+                                <orth>wenn es auch nur gesund were</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Ná cżcżo węgierskie wino pić</quote>
+                        <orth>Ná cżcżo węgierskie wino pić</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>Ungerischen Wein/ nüchtern zu trincken</quote>
+                      <form>
+                                <orth>Ungerischen Wein/ nüchtern zu trincken</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>á Iákożby nie miáło żdrowo bydź</quote>
+                        <orth>á Iákożby nie miáło żdrowo bydź</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>wie solte es nicht gesund seyn</quote>
+                      <form>
+                                <orth>wie solte es nicht gesund seyn</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Pewnie że zdrowo/ </quote>
+                        <orth>Pewnie że zdrowo/ </orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>gewiß ist es gesund</quote>
+                      <form>
+                                <orth>gewiß ist es gesund</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Ale je trzebá miernie pić</quote>
+                        <orth>Ale je trzebá miernie pić</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>aber man muß ihn mässig trincken</quote>
+                      <form>
+                                <orth>aber man muß ihn mässig trincken</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Szli pospołu do domu</quote>
+                        <orth>Szli pospołu do domu</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>sie sind mit einander nach Hause gegangen</quote>
+                      <form>
+                                <orth>sie sind mit einander nach Hause gegangen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <fw type="custos">á za</fw>
-                <pb n="0047"/>
+                <pb n="159 (J3)"/>
                 <entry type="expression">
                   <form>
-                        <quote>á zá też pospołu naydą dom</quote>
+                        <orth>á zá też pospołu naydą dom</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>werden sie auch zusammen das Hauß finden</quote>
+                      <form>
+                                <orth>werden sie auch zusammen das Hauß finden</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Zdołu dobywa piasku</quote>
+                        <orth>Zdołu dobywa piasku</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>er gewinnet den Sand von unten</quote>
+                      <form>
+                                <orth>er gewinnet den Sand von unten</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Zdołu ná wilká żászedł</quote>
+                        <orth>Zdołu ná wilká żászedł</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>er hat den Wolff von unten erschlichen</quote>
+                      <form>
+                                <orth>er hat den Wolff von unten erschlichen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Ku źiemi śię schyla</quote>
+                        <orth>Ku źiemi śię schyla</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>er neiget sich zu der Erde</quote>
+                      <form>
+                                <orth>er neiget sich zu der Erde</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Ku nam jedźie</quote>
+                        <orth>Ku nam jedźie</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>er fähret gegen uns zu uns</quote>
+                      <form>
+                                <orth>er fähret gegen uns zu uns</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Ku tobie zmierza</quote>
+                        <orth>Ku tobie zmierza</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>er zielet gegen dir</quote>
+                      <form>
+                                <orth>er zielet gegen dir</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Kumnie pohay</quote>
+                        <orth>Kumnie pohay</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>stosse zu mir/ (auff mich)</quote>
+                      <form>
+                                <orth>stosse zu mir/ (auff mich)</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Nuże á kiedyż śię wybierzesz wdrogę</quote>
+                        <orth>Nuże á kiedyż śię wybierzesz wdrogę</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>nun wenn wirst du dich auff den Weg machen</quote>
+                      <form>
+                                <orth>nun wenn wirst du dich auff den Weg machen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Tu śię gnieźdźi pliszká</quote>
+                        <orth>Tu śię gnieźdźi pliszká</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>hier machet eine Bachsteltze ein Nest</quote>
+                      <form>
+                                <orth>hier machet eine Bachsteltze ein Nest</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Tu trzymay zá koniec</quote>
+                        <orth>Tu trzymay zá koniec</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>hier halte bey dem En</quote>
+                      <form>
+                                <orth>hier halte bey dem En</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Tu śiedźi przepiorká</quote>
+                        <orth>Tu śiedźi przepiorká</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>hir sitzet eine Wachtel</quote>
+                      <form>
+                                <orth>hir sitzet eine Wachtel</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>á tu teraz wzlećiáłá kuro pátwá</quote>
+                        <orth>á tu teraz wzlećiáłá kuro pátwá</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>und hier ist ietzo ein Rephun auffgeflogen</quote>
+                      <form>
+                                <orth>und hier ist ietzo ein Rephun auffgeflogen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Naydźiesz tu y owdźie</quote>
+                        <orth>Naydźiesz tu y owdźie</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>du wirst hie und dort finden</quote>
+                      <form>
+                                <orth>du wirst hie und dort finden</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Cżegoć będźie trzebá</quote>
+                        <orth>Cżegoć będźie trzebá</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>was dir nöthig seyn wid</quote>
+                      <form>
+                                <orth>was dir nöthig seyn wid</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>By to nie było</quote>
+                        <orth>By to nie było</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>wenn das nicht wäre</quote>
+                      <form>
+                                <orth>wenn das nicht wäre</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Kiedyby mię nie był oszukal/ (oszukáłá)</quote>
+                        <orth>Kiedyby mię nie był oszukal/ (oszukáłá)</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>wenn er/ (sie) mich nicht betrogen hätte</quote>
+                      <form>
+                                <orth>wenn er/ (sie) mich nicht betrogen hätte</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Tedybym teraz był bogátszem (byłá bogátszą)</quote>
+                        <orth>Tedybym teraz był bogátszem (byłá bogátszą)</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>so würde ich ietzo reicher seyn</quote>
+                      <form>
+                                <orth>so würde ich ietzo reicher seyn</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Ieślibyś go domá nie zástał (zástáłá)</quote>
+                        <orth>Ieślibyś go domá nie zástał (zástáłá)</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>wenn du ihn nicht möchtest zu Hause antreffen</quote>
+                      <form>
+                                <orth>wenn du ihn nicht möchtest zu Hause antreffen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Mogłćibyś mi też był (mogabyśći mi też byłá) powiedzieć</quote>
+                        <orth>Mogłćibyś mi też był (mogabyśći mi też byłá) powiedzieć</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>du hättest mirs auch wol sagen können</quote>
+                      <form>
+                                <orth>du hättest mirs auch wol sagen können</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Im <choice>
+                        <orth>Im <choice>
                                 <sic>więwcey</sic>
                                 <corr>więcey</corr>
                             </choice> mu (jey)
                       <fw type="custos">podáję/</fw>
                       <fw type="signature">K iij</fw>
-                      <pb n="48"/>podáję
-                  </quote>
+                      <pb n="160 (J3v)"/>podáję
+                  </orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>ie mehr ich ihm bitte</quote>
+                      <form>
+                                <orth>ie mehr ich ihm bitte</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Ná sukno</quote>
+                        <orth>Ná sukno</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>auff das Tuch/(Gewand)</quote>
+                      <form>
+                                <orth>auff das Tuch/(Gewand)</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Tym więcey odemnie (zą da)</quote>
+                        <orth>Tym więcey odemnie (zą da)</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>desto mehr begehret er (sie) von mir</quote>
+                      <form>
+                                <orth>desto mehr begehret er (sie) von mir</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>To mię tym więcey ubespiecża</quote>
+                        <orth>To mię tym więcey ubespiecża</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>desto mehr machet mich das sicher</quote>
+                      <form>
+                                <orth>desto mehr machet mich das sicher</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Tym więcey mię toćieszy</quote>
+                        <orth>Tym więcey mię toćieszy</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>desto mehr tröstet mich das</quote>
+                      <form>
+                                <orth>desto mehr tröstet mich das</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Inácżeyby to mogło bydź</quote>
+                        <orth>Inácżeyby to mogło bydź</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>das könte anders seyn</quote>
+                      <form>
+                                <orth>das könte anders seyn</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Nie może już inácżey postąpić</quote>
+                        <orth>Nie może już inácżey postąpić</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>er kan schon nicht anders verfahren</quote>
+                      <form>
+                                <orth>er kan schon nicht anders verfahren</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>To inácżey nie rzekę</quote>
+                        <orth>To inácżey nie rzekę</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>so werde ich nicht anders sagen</quote>
+                      <form>
+                                <orth>so werde ich nicht anders sagen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Nie powiáday (rzecż) inácżey</quote>
+                        <orth>Nie powiáday (rzecż) inácżey</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>sage nicht anders</quote>
+                      <form>
+                                <orth>sage nicht anders</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Kiedy mię tkniesz pálcem</quote>
+                        <orth>Kiedy mię tkniesz pálcem</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>wenn du mich mit dem Finger anrühren wirst</quote>
+                      <form>
+                                <orth>wenn du mich mit dem Finger anrühren wirst</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Tedy ćię zá raz pięśćią włeb uderzę</quote>
+                        <orth>Tedy ćię zá raz pięśćią włeb uderzę</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>so wil ich dich bald mit der gebalten Hand an den Kopff schlagen</quote>
+                      <form>
+                                <orth>so wil ich dich bald mit der gebalten Hand an den Kopff schlagen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>á kędyż ćię naydę</quote>
+                        <orth>á kędyż ćię naydę</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>wo werde ich dich antreffen</quote>
+                      <form>
+                                <orth>wo werde ich dich antreffen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Tędy poydę násolny targ</quote>
+                        <orth>Tędy poydę násolny targ</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>ich wil hierdurch auff den Saltzring gehen</quote>
+                      <form>
+                                <orth>ich wil hierdurch auff den Saltzring gehen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>á Ktorędyż ja mam iść</quote>
+                        <orth>á Ktorędyż ja mam iść</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>wo sol ich denn gehen</quote>
+                      <form>
+                                <orth>wo sol ich denn gehen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Inędy nie wiem</quote>
+                        <orth>Inędy nie wiem</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>anders wodurch weiß ich nicht</quote>
+                      <form>
+                                <orth>anders wodurch weiß ich nicht</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Wszędy możesż prżeleść</quote>
+                        <orth>Wszędy możesż prżeleść</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>du kanst allenthalben durchkriechen</quote>
+                      <form>
+                                <orth>du kanst allenthalben durchkriechen</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Hey tośći też ty przykry</quote>
+                        <orth>Hey tośći też ty przykry</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>ey du bist ja auch ein verdrießlicher Mensch</quote>
+                      <form>
+                                <orth>ey du bist ja auch ein verdrießlicher Mensch</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Báwey ják śię to prętko obrusza</quote>
+                        <orth>Báwey ják śię to prętko obrusza</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>siehe/ wie geschwinde er sich entrüstet</quote>
+                      <form>
+                                <orth>siehe/ wie geschwinde er sich entrüstet</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <entry type="expression">
                   <form>
-                        <quote>Wey jákeś śię ty ze mnie náśmiewał</quote>
+                        <orth>Wey jákeś śię ty ze mnie náśmiewał</orth>
                     </form>
                   <pc>/</pc>
                   <sense>
                     <cit type="translationEquivalent" xml:lang="de">
-                      <quote>siehe wie du mich außgelachet hast</quote>
+                      <form>
+                                <orth>siehe wie du mich außgelachet hast</orth>
+                            </form>
                     </cit>
                   </sense>
                 </entry>
                 <fw type="custos">Rozmo-</fw>
             </div>
             <div type="dialogue" n="1">
-				<pb n="491"/>
+				<pb n="161 (J4)"/>
 				<head>
 					<title>
 						<seg xml:lang="pl">Rozmowá</seg>/ 
@@ -73211,7 +73411,7 @@
 						<seg xml:lang="de">ich heisse den Herren Frau
     
 							<fw type="signature">K jv</fw>
-							<pb n="501"/> (Frau Iungfer)/freundlich willkommen
+							<pb n="162 (J4v)"/> (Frau Iungfer)/freundlich willkommen
 						</seg>
 					</p>
 				</sp>
@@ -73319,7 +73519,7 @@
 						<seg xml:lang="de">als sitze</seg>
 					</p>
 					<fw type="custos">Nie</fw>
-					<pb n="122"/>
+					<pb n="163 (J5)"/>
 				</sp>
 				<sp>
 					<speaker>Ian.</speaker>
@@ -73416,7 +73616,7 @@
 					</p>
 					<fw type="signature">K v</fw>
 					<fw type="custos">y Po</fw>
-					<pb n="222"/>
+					<pb n="164 (J5v)"/>
 				</sp>
 				<sp>
 					<speaker>Bog.</speaker>
@@ -73498,7 +73698,7 @@
 						<seg xml:lang="de">auff ein kleines Weilchen</seg>
 					</p>
 					<fw type="custos">ále</fw>
-					<pb n="322"/>
+					<pb n="165 (J6)"/>
 				</sp>
 				<sp>
 					<speaker>Bog.</speaker>
@@ -73564,7 +73764,7 @@
 						<seg xml:lang="de">verweilen</seg>
 					</p>
 					<fw type="custos">ábys</fw>
-					<pb n="133"/>
+					<pb n="166 (J6v)"/>
 				</sp>
 				<sp>
 					<speaker>Bog.</speaker>
@@ -73673,7 +73873,7 @@
 						<seg xml:lang="de">nach meiner eiligsten Zurückkunfft</seg>
 					</p>
 					<fw type="custos">Swemi</fw>
-					<pb n="233"/>
+					<pb n="167 (J7)"/>
 				</sp>
 				<sp>
 					<speaker>Ian.</speaker>
@@ -73789,7 +73989,7 @@
 						<seg xml:lang="de">der gemeinen Leute</seg>
 					</p>
 					<fw type="custos">Atoli</fw>
-					<pb n="333"/>
+					<pb n="168 (J7v)"/>
 				</sp>
 				<sp>
 					<speaker>Ian.</speaker>
@@ -73815,7 +74015,7 @@
 						<seg xml:lang="de">auff ein halbes Stündlein</seg>
 					</p>
 					<fw type="custos">milo/</fw>
-					<pb n="1"/>
+					<pb n="169 (J8)"/>
 				</sp>
 				<sp>
 					<speaker>Bog.</speaker>
@@ -73949,9 +74149,9 @@
 						<seg xml:lang="de">als wir einander nicht gesehen haben</seg>
 					</p>
 					<fw type="custos">Stoi</fw>
-					<pb n="2"/>
+					<pb n="170 (J8v)"/>
 					<fw type="custos">Bog.</fw>
-					<pb n="3"/>
+					<pb n="171 (K1)"/>
 				</sp>
 				<sp>
 					<speaker>Bog.</speaker>
@@ -74033,7 +74233,7 @@
 					</p>
 					<fw type="signature">L</fw>
 					<fw type="custos">ábyś</fw>
-					<pb n="4"/>
+					<pb n="172 (K1v)"/>
 				</sp>
 				<sp>
 					<speaker>Bog.</speaker>
@@ -74231,10 +74431,10 @@
 						<seg xml:lang="de">einen ruhigen Schlaff</seg>
 					</p>
 					<fw type="custos">y ubo-</fw>
-					<pb n="5"/>
+					<pb n="173 (K2)"/>
 					<fw type="signature">L ij</fw>
 					<fw type="custos">Do</fw>
-					<pb n="6"/>
+					<pb n="174 (K2v)"/>
 				</sp>
 				<sp>
 					<speaker>Ian.</speaker>
@@ -74274,7 +74474,7 @@
 						<seg xml:lang="de">schon von etlichen Iahren</seg>
 					</p>
 					<fw type="custos">Bo</fw>
-					<pb n="7"/>
+					<pb n="175 (K3)"/>
 				</sp>
 				<sp>
 					<speaker>Bog.</speaker>
@@ -74353,7 +74553,7 @@
 					</p>
 					<fw type="signature">L iij</fw>
 					<fw type="custos">Nierad</fw>
-					<pb n="8"/>
+					<pb n="176 (K3v)"/>
 				</sp>
 				<sp>
 					<speaker>Bog.</speaker>
@@ -74447,7 +74647,7 @@
 						<seg xml:lang="de">und also vermehren sie ihnen selbst die Bekümmernüß</seg>
 					</p>
 					<fw type="custos">Owa-</fw>
-					<pb n="9"/>
+					<pb n="177 (K4)"/>
 				</sp>
 				<sp>
 					<speaker>Ian.</speaker>
@@ -74489,7 +74689,7 @@
 					</p>
 					<fw type="signature">L jv</fw>
 					<fw type="custos">ále</fw>
-					<pb n="10"/>
+					<pb n="178 (K4v)"/>
 				</sp>
 				<sp>
 					<speaker>Bog/</speaker>
@@ -74541,7 +74741,7 @@
 						<seg xml:lang="pl">Dla żadney inszey przy
     
 							<fw type="custos">cżyny/</fw>
-							<pb n="11"/>
+							<pb n="179 (K5)"/>
     cżyny/
 						</seg>
                         <pc>/</pc>
@@ -74618,7 +74818,7 @@
 					</p>
 					<fw type="signature">L v</fw>
 					<fw type="custos">áley</fw>
-					<pb n="12"/>
+					<pb n="180 (K5v)"/>
 				</sp>
 				<sp>
 					<speaker>Ian.</speaker>
@@ -74908,13 +75108,13 @@
 						<seg xml:lang="de">oder mir helffen (rathen)</seg>
 					</p>
 					<fw type="custos">Mie</fw>
-					<pb n="13"/>
+					<pb n="181 (K6)"/>
 					<fw type="custos">y rada</fw>
-					<pb n="14"/>
+					<pb n="182 (K6v)"/>
 					<fw type="custos">Po</fw>
-					<pb n="15"/>
+					<pb n="183 (K7)"/>
 					<fw type="custos">Proszę</fw>
-					<pb n="16"/>
+					<pb n="184 (K7v)"/>
 				</sp>
 				<sp>
 					<speaker>Bog.</speaker>
@@ -75129,11 +75329,11 @@
                         <pc>/</pc>
 						<seg xml:lang="de">mit harten Worten</seg>
 					</p>
-					<pb n="17"/>
+					<pb n="185 (K8)"/>
 					<fw type="custos">y wet</fw>
-					<pb n="18"/>
+					<pb n="186 (K8v)"/>
 					<fw type="custos">Ktoby</fw>
-					<pb n="19"/>
+					<pb n="187 (L1)"/>
 				</sp>
 				<sp>
 					<speaker>Ian.</speaker>
@@ -75185,7 +75385,7 @@
 					</p>
 					<fw type="signature">M</fw>
 					<fw type="custos">Porá-</fw>
-					<pb n="20"/>
+					<pb n="188 (L1v)"/>
 				</sp>
 				<sp>
 					<speaker>Ian.</speaker>
@@ -75255,7 +75455,7 @@
 						<seg xml:lang="de">wie ich denn nu auch von
     
 							<fw type="custos">dem</fw>
-							<pb n="21"/>
+							<pb n="189 (L2)"/>
     dem Herren Abschied nehme
 						</seg>
 						<seg xml:lang="pl">á życżąc sżcżeśliwych sukce sow</seg>
@@ -75346,7 +75546,7 @@
     
 							<fw type="signature">M ij</fw>
 							<fw type="custos">einer</fw>
-							<pb n="22"/>
+							<pb n="190 (L2v)"/>
     einer bessern Abendmahlzeit
 						</seg>
 						<seg xml:lang="pl">Bo wiem że znaydę</seg>
@@ -75522,10 +75722,10 @@
 						<seg xml:lang="de">Iunge bist du da</seg>
 					</p>
 					<fw type="custos">Wászeci</fw>
-					<pb n="23"/>
+					<pb n="191 (L3)"/>
 					<fw type="signature">M iij</fw>
 					<fw type="custos">Ná d</fw>
-					<pb n="24"/>
+					<pb n="192 (L3v)"/>
 				</sp>
 				<sp>
 					<speaker>Piotr.</speaker>
@@ -75615,7 +75815,7 @@
 						<seg xml:lang="pl">Kiedyby wolá
     
 							<fw type="custos">wászeci</fw>
-							<pb n="25"/>wászeci byłá/
+							<pb n="193 (L4)"/>wászeci byłá/
 						</seg>
                         <pc>/</pc>
 						<seg xml:lang="de">wenn es deß Herren Wille wäre</seg>
@@ -75734,7 +75934,7 @@
 					</p>
 					<fw type="signature">M jv</fw>
 					<fw type="custos">Gośćia</fw>
-					<pb n="26"/>
+					<pb n="194 (L4v)"/>
 				</sp>
 				<sp>
 					<speaker>Bog.</speaker>
@@ -75802,7 +76002,7 @@
 						<seg xml:lang="de">ich lasse es weiter nicht geschehen</seg>
 					</p>
 					<fw type="custos">aber</fw>
-					<pb n="27"/>
+					<pb n="195 (L5)"/>
 				</sp>
 				<sp>
 					<speaker>Ian.</speaker>
@@ -75881,7 +76081,7 @@
 				</sp>
 				<fw type="signature">M v</fw>
 				<fw type="custos">Ian.</fw>
-				<pb n="28"/>
+				<pb n="196 (L5v)"/>
 				<sp>
 					<speaker>Iá.</speaker>
 					<p>
@@ -75939,7 +76139,7 @@
 					</p>
 				</sp>
 				<fw type="custos">Bog.</fw>
-				<pb n="29"/>
+				<pb n="197 (L6)"/>
 				<sp>
 					<speaker>Bog.</speaker>
 					<p>
@@ -76066,7 +76266,7 @@
 						<seg xml:lang="de">daß sie mir nicht mehr auslesche</seg>
 					</p>
 					<fw type="custos">Zdale-</fw>
-					<pb n="30"/>
+					<pb n="198 (L6v)"/>
 				</sp>
 				<sp>
 					<speaker>Bog.</speaker>
@@ -76119,7 +76319,7 @@
 						<seg xml:lang="de">) eurem Herren (eurer Frau)</seg>
 					</p>
 					<fw type="custos">Wásze-</fw>
-					<pb n="31"/>
+					<pb n="199 (L7)"/>
 				</sp>
 				<sp>
 					<speaker>Piotr</speaker>
@@ -76225,7 +76425,7 @@
 					</castItem>
 				</castList>
 				<fw type="custos">Iak.</fw>
-				<pb n="32"/>
+				<pb n="200 (L7v)"/>
 				<sp>
 					<speaker>Iak/ </speaker>
 					<p>
@@ -76319,7 +76519,7 @@
 						<seg xml:lang="de">oder hernach nach dem Gebeth umb acht</seg>
 					</p>
 					<fw type="custos">Co</fw>
-					<pb n="33"/>
+					<pb n="201 (L8)"/>
 				</sp>
 				<sp>
 					<speaker>Iak.</speaker>
@@ -76387,7 +76587,7 @@
 						<seg xml:lang="de">theurer</seg>
 					</p>
 					<fw type="custos">nicht</fw>
-					<pb n="34"/>
+					<pb n="202 (L8v)"/>
 				</sp>
 				<sp>
 					<speaker>Mich.</speaker>
@@ -76459,7 +76659,7 @@
 						<seg xml:lang="de">und das zeitliche wird euch zugegeben werden</seg>
 					</p>
 					<fw type="custos">Szukayćie</fw>
-					<pb n="35"/>
+					<pb n="203 (M1)"/>
 				</sp>
 				<sp>
 					<speaker>Mich.</speaker>
@@ -76569,7 +76769,7 @@
 					</p>
 					<fw type="signature">N</fw>
 					<fw type="custos">ábo</fw>
-					<pb n="36"/>
+					<pb n="204 (M1v)"/>
 				</sp>
 				<sp>
 					<speaker>Mich.</speaker>
@@ -76601,7 +76801,7 @@
 						<seg xml:lang="pl">á teraz od wászeći coś
     
 							<fw type="custos">in-</fw>
-							<pb n="37"/>inszego słyszę/
+							<pb n="205 (M2)"/>inszego słyszę/
 						</seg>
                         <pc>/</pc>
 						<seg xml:lang="de">und ietzund höre ich von ihm (ihr) etwas anders</seg>
@@ -76739,9 +76939,9 @@
 					</p>
 					<fw type="signature">N ij</fw>
 					<fw type="custos">Że-</fw>
-					<pb n="38"/>
+					<pb n="206 (M2v)"/>
 					<fw type="custos">Idź</fw>
-					<pb n="39"/>
+					<pb n="207 (M3)"/>
 				</sp>
 				<sp>
 					<speaker>Ierzy.</speaker>
@@ -76809,7 +77009,7 @@
 					</p>
 					<fw type="signature">N iij</fw>
 					<fw type="custos">Tedy</fw>
-					<pb n="40"/>
+					<pb n="208 (M3v)"/>
 				</sp>
 				<sp>
 					<speaker>Ierzy.</speaker>
@@ -76878,7 +77078,7 @@
 						<seg xml:lang="pl">Iák drogo je chcećie
     
 							<fw type="custos">prze-</fw>
-							<pb n="41"/>przedáć/
+							<pb n="209 (M4)"/>przedáć/
 						</seg>
                         <pc>/</pc>
 						<seg xml:lang="de">wie theuer ihr sie verkauffen wollet</seg>
@@ -76963,7 +77163,7 @@
     
 							<fw type="signature">N jv</fw>
 							<fw type="custos">śpial</fw>
-							<pb n="42"/>śpiał/
+							<pb n="210 (M4v)"/>śpiał/
 						</seg>
                         <pc>/</pc>
 						<seg xml:lang="de">wenn ich nur Zeit hätte</seg>
@@ -77041,7 +77241,7 @@
 						<seg xml:lang="de">mir kan
     
 							<fw type="custos">auch</fw>
-							<pb n="43"/>auch nichts <choice>
+							<pb n="211 (M5)"/>auch nichts <choice>
                                 <sic>verdrteßlichers</sic>
                                 <corr>verdrießlichers</corr>
                             </choice> seyn
@@ -77125,7 +77325,7 @@
 					</p>
 					<fw type="signature">N v</fw>
 					<fw type="custos">Kto</fw>
-					<pb n="44"/>
+					<pb n="212 (M5v)"/>
 				</sp>
 				<sp>
 					<speaker>Iak.</speaker>
@@ -77182,7 +77382,7 @@
 						<seg xml:lang="de">wenn gleich einem armen
     
 							<fw type="custos">Menschen</fw>
-							<pb n="45"/>Menschen/
+							<pb n="213 (M6)"/>Menschen/
 						</seg>
                         <pc>/</pc>
 						<seg xml:lang="de">ich weiß nicht was möchte gesaget werde<supplied reason="editorial" resp="#ed1">n</supplied>
@@ -77245,7 +77445,7 @@
 						<seg xml:lang="pl">Wżdy wászec
     
 							<fw type="custos">jeszcże</fw>
-							<pb n="46"/>jeszcże zparę cżeskich przyło żysz/
+							<pb n="214 (M6v)"/>jeszcże zparę cżeskich przyło żysz/
 						</seg>
                         <pc>/</pc>
 						<seg xml:lang="de">der Herr wird ja noch ein paar Silbergroschen zulegen</seg>
@@ -77307,7 +77507,7 @@
 						<seg xml:lang="de">Geringer lehne dich nicht wider
     
 							<fw type="custos">einen</fw>
-							<pb n="47"/>einen Mächtigern auff
+							<pb n="215 (M7)"/>einen Mächtigern auff
 						</seg>
 					</p>
 				</sp>
@@ -77390,7 +77590,7 @@
 						<seg xml:lang="pl">Boże to wászeći ná
     
 							<fw type="custos">grodź</fw>
-							<pb n="48"/>grodź/
+							<pb n="216 (M7v)"/>grodź/
 						</seg>
                         <pc>/</pc>
 						<seg xml:lang="de">GOtt belohne es dem Herren</seg>
@@ -77462,7 +77662,7 @@
 						<seg xml:lang="pl">Niemam nic
       
 							<fw type="custos">osobli-</fw>
-							<pb n="49"/>osobliwego/
+							<pb n="217 (M8)"/>osobliwego/
 						</seg>
                         <pc>/</pc>
 						<seg xml:lang="de">ich habe nichts sonderliches</seg>
@@ -77545,7 +77745,7 @@
 						<seg xml:lang="de">und
     
 							<fw type="custos">ich</fw>
-							<pb n="50"/>ich möchte nicht nur in eine grosse Straffe kommen
+							<pb n="218 (M8v)"/>ich möchte nicht nur in eine grosse Straffe kommen
 						</seg>
 						<seg xml:lang="pl">áleby mię też nád to nász szlachćic dał w kłodę wsádzić</seg>
                         <pc>/</pc>
@@ -77654,7 +77854,7 @@
 						<seg xml:lang="de">was er unter den Mantel genommen hat</seg>
 					</p>
 					<fw type="custos">Nie</fw>
-					<pb n="51"/>
+					<pb n="219 (N1)"/>
 				</sp>
 				<sp>
 					<speaker>Tomasz.</speaker>
@@ -77685,7 +77885,7 @@
     
 							<fw type="signature">O</fw>
 							<fw type="custos">noch</fw>
-							<pb n="52"/>noch fünff Silbergroschen zulegen
+							<pb n="220 (N1v)"/>noch fünff Silbergroschen zulegen
 						</seg>
 					</p>
 				</sp>
@@ -77769,7 +77969,7 @@
 						<seg xml:lang="de">daß es der Herr behalten wolte</seg>
 					</p>
 					<fw type="custos">Kied-</fw>
-					<pb n="53"/>
+					<pb n="221 (N2)"/>
 				</sp>
 				<sp>
 					<speaker>Iák.</speaker>
@@ -77880,7 +78080,7 @@
 					</p>
 					<fw type="signature">O ij</fw>
 					<fw type="custos">Kiedy</fw>
-					<pb n="54"/>
+					<pb n="222 (N2v)"/>
 				</sp>
 				<sp>
 					<speaker>Iák.</speaker>
@@ -77950,7 +78150,7 @@
 						<seg xml:lang="de">denn es hat mich einander Freund außgekauffet</seg>
 					</p>
 					<fw type="custos">Iam</fw>
-					<pb n="55"/>
+					<pb n="223 (N3)"/>
 				</sp>
 				<sp>
 					<speaker>Iak.</speaker>
@@ -78005,7 +78205,7 @@
 					</p>
 					<fw type="signature">O iij</fw>
 					<fw type="custos">álem</fw>
-					<pb n="56"/>
+					<pb n="224 (N3v)"/>
 				</sp>
 				<sp>
 					<speaker>Iak.</speaker>
@@ -78103,7 +78303,7 @@
 						<seg xml:lang="de">der Herr wird mir eine grosse Freundschafft erweisen</seg>
 					</p>
 					<fw type="custos">Cżego-</fw>
-					<pb n="57"/>
+					<pb n="225 (N4)"/>
 				</sp>
 				<sp>
 					<speaker>Iák.</speaker>
@@ -78146,7 +78346,7 @@
 						<seg xml:lang="pl">Inszem cżásem wspomnę też ná wászeći</seg>
                         <pc>/</pc>
                         <seg xml:lang="de">auffein ander mal wil ich an den Herren auch gedencken</seg>
-						<pb n="58"/>
+						<pb n="226 (N4v)"/>
 						<seg xml:lang="pl">Kiedy to osobliwego będę miał</seg>
                         <pc>/</pc>
 						<seg xml:lang="de">wenn etwas sonderlich es haben werde</seg>
